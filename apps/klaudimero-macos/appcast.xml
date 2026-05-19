@@ -5,6 +5,15 @@
     <link>https://builds.hartl.co/apps/klaudimero-macos/appcast.xml</link>
     <item>
       <title>Version 1.0</title>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Notarized macOS build&lt;/p&gt;</description>
+      <pubDate>Tue, 19 May 2026 17:52:44 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/klaudimero-macos/builds/1.0-2/download/KlaudimeroApp.dmg" length="9094637" type="application/octet-stream"></enclosure>
+    </item>
+    <item>
+      <title>Version 1.0</title>
       <sparkle:version>1</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
