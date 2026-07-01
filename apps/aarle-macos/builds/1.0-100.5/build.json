@@ -1,0 +1,9 @@
+{
+  "build_number": "100.5",
+  "date": "2026-07-01T07:46:51Z",
+  "file": "Aarle-macOS-1.0-100.5.dmg",
+  "min_os_version": "27.0",
+  "notes": "Modernized for iOS 27/macOS 27 and Swift 6.",
+  "size": 1721588,
+  "version": "1.0"
+}
