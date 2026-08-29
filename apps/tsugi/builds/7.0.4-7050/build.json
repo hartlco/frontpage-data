@@ -1,0 +1,9 @@
+{
+  "build_number": "7050",
+  "date": "2026-08-29T07:04:06Z",
+  "file": "Tsugi.ipa",
+  "min_os_version": "17.0",
+  "notes": "Place News metadata below thumbnails, stabilize Social image sizing across feed visits, and improve timeline text contrast.",
+  "size": 19526733,
+  "version": "7.0.4"
+}
