@@ -1,0 +1,9 @@
+{
+  "build_number": "7049",
+  "date": "2026-08-29T06:45:29Z",
+  "file": "Tsugi.ipa",
+  "min_os_version": "17.0",
+  "notes": "Improve Social image quality and layout stability, and recognize srcset, lazy-loaded, and single-quoted article images.",
+  "size": 19526435,
+  "version": "7.0.4"
+}
