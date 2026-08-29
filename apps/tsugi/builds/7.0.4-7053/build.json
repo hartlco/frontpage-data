@@ -1,0 +1,9 @@
+{
+  "build_number": "7053",
+  "date": "2026-08-29T14:39:31Z",
+  "file": "Tsugi.ipa",
+  "min_os_version": "17.0",
+  "notes": "Moves News favicons into the metadata row beside the site name, giving article text consistent full-width alignment and allowing favicons alongside thumbnails.",
+  "size": 19528348,
+  "version": "7.0.4"
+}
