@@ -1,0 +1,9 @@
+{
+  "build_number": "4",
+  "date": "2026-08-29T06:13:16Z",
+  "file": "mymos.ipa",
+  "min_os_version": "27.0",
+  "notes": "Store the Foursquare/Swarm access token on the server so every authenticated app can import check-ins, with automatic migration from existing iOS settings.",
+  "size": 5354770,
+  "version": "1.0"
+}
