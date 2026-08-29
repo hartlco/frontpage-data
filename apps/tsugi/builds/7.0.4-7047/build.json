@@ -1,0 +1,9 @@
+{
+  "build_number": "7047",
+  "date": "2026-08-29T05:58:06Z",
+  "file": "Tsugi.ipa",
+  "min_os_version": "17.0",
+  "notes": "Fix HTML entity decoding in Social timelines and show author/feed identity with the post date beside the avatar.",
+  "size": 19519555,
+  "version": "7.0.4"
+}
