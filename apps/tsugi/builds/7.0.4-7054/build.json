@@ -1,0 +1,9 @@
+{
+  "build_number": "7054",
+  "date": "2026-08-29T15:04:59Z",
+  "file": "Tsugi.ipa",
+  "min_os_version": "17.0",
+  "notes": "Improves timeline scrolling with thumbnail prefetching, stable image geometry, targeted image updates, background decoding and resizing, bounded caching, and reduced cell layout and text work.",
+  "size": 19522653,
+  "version": "7.0.4"
+}
