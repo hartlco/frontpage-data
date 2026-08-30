@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Tsugi</title>
+    <link>https://builds.hartl.co/apps/tsugi-macos/appcast.xml</link>
+    <item>
+      <title>Version 7.0.4b5</title>
+      <sparkle:version>7048</sparkle:version>
+      <sparkle:shortVersionString>7.0.4b5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;First Frontpage macOS release of Tsugi 7.0.4b5, universal for Apple Silicon and Intel.&lt;/p&gt;</description>
+      <pubDate>Sun, 30 Aug 2026 05:27:47 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/tsugi-macos/builds/7.0.4b5-7048/download/Tsugi-7.0.4b5-7048.dmg" length="12590109" type="application/octet-stream"></enclosure>
+    </item>
+  </channel>
+</rss>
