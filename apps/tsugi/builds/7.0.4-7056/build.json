@@ -1,0 +1,9 @@
+{
+  "build_number": "7056",
+  "date": "2026-08-31T12:19:34Z",
+  "file": "Tsugi.ipa",
+  "min_os_version": "17.0",
+  "notes": "Improves timeline scrolling with cached row heights, off-main text and thumbnail preparation, deferred updates during momentum scrolling, and reduced cell reconfiguration work.",
+  "size": 19531964,
+  "version": "7.0.4"
+}
