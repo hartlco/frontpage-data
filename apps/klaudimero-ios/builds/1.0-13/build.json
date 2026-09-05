@@ -1,0 +1,9 @@
+{
+  "build_number": "13",
+  "date": "2026-09-05T19:33:02Z",
+  "file": "KlaudimeroApp.ipa",
+  "min_os_version": "26.0",
+  "notes": "Goals that work from your description: start now or schedule host assistant work, review results and files, reply and continue. Dashboard updates are selected when relevant. Simpler goal screens with optional model settings and activity. Source: 6521667; progress: github.com/hartlco/klaudimero/issues/40.",
+  "size": 17420940,
+  "version": "1.0"
+}
