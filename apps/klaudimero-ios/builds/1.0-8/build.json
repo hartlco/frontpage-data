@@ -1,0 +1,9 @@
+{
+  "build_number": "8",
+  "date": "2026-09-05T06:28:16Z",
+  "file": "KlaudimeroApp.ipa",
+  "min_os_version": "26.0",
+  "notes": "Agenda sources now run on the service host. Versioned sources.toml supports Things, JSON exports and command adapters with configurable scope, timing and limits. Clients show shared task/event data and source status without local Calendar or Reminders setup. Things planned dates and deadlines stay separate. Source: 95a7a0a; progress: github.com/hartlco/klaudimero/issues/40.",
+  "size": 16966299,
+  "version": "1.0"
+}
