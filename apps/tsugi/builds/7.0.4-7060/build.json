@@ -1,0 +1,9 @@
+{
+  "build_number": "7060",
+  "date": "2026-09-05T13:43:22Z",
+  "file": "Tsugi.ipa",
+  "min_os_version": "17.0",
+  "notes": "Improves timeline scrolling with cached styled text, in-place icon and thumbnail updates, reserved icon geometry, and smaller decoded News thumbnails. Blog avoids thumbnail work. Fixes cached row heights when Dynamic Type changes so larger feed names and dates remain readable.",
+  "size": 19542216,
+  "version": "7.0.4"
+}
