@@ -5,6 +5,15 @@
     <link>https://builds.hartl.co/apps/tsugi-macos/appcast.xml</link>
     <item>
       <title>Version 7.0.4b5</title>
+      <sparkle:version>7060</sparkle:version>
+      <sparkle:shortVersionString>7.0.4b5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Improves timeline scrolling with cached title formatting and cell layouts, in-place row updates, and background thumbnail decoding. News uses smaller decoded thumbnails; Blog skips thumbnail loading. Universal app, Developer ID signed, notarized, and stapled.&lt;/p&gt;</description>
+      <pubDate>Sat, 05 Sep 2026 13:32:18 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/tsugi-macos/builds/7.0.4b5-7060/download/Tsugi-7.0.4b5-7060.dmg" length="12716567" type="application/octet-stream"></enclosure>
+    </item>
+    <item>
+      <title>Version 7.0.4b5</title>
       <sparkle:version>7050</sparkle:version>
       <sparkle:shortVersionString>7.0.4b5</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
