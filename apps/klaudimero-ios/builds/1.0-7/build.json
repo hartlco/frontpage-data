@@ -1,0 +1,9 @@
+{
+  "build_number": "7",
+  "date": "2026-09-05T05:33:12Z",
+  "file": "KlaudimeroApp.ipa",
+  "min_os_version": "26.0",
+  "notes": "Selected Calendar and Reminders sources, today/tomorrow commitments, overdue and undated reminders, overlapping events, and preparation suggestions. Read-only collection with visible source freshness and offline viewing. Fixes singular count wording. Source: 020edd6; progress: github.com/hartlco/klaudimero/issues/40.",
+  "size": 17001410,
+  "version": "1.0"
+}
