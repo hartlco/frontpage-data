@@ -1,0 +1,9 @@
+{
+  "build_number": "9",
+  "date": "2026-09-05T07:55:09Z",
+  "file": "KlaudimeroApp.ipa",
+  "min_os_version": "26.0",
+  "notes": "Tomorrow is ready: saved next-day focus suggestions, preparation notes and questions linked to host task/event sources. Configurable daily schedule, selected wiki context, persistent draft history, explicit usefulness feedback and offline viewing. This host uses Things at 18:00 Europe/Berlin; push notifications stay off. Source: 73114c9; progress: github.com/hartlco/klaudimero/issues/40.",
+  "size": 17075379,
+  "version": "1.0"
+}
