@@ -1,0 +1,9 @@
+{
+  "build_number": "5",
+  "date": "2026-09-05T03:55:35Z",
+  "file": "KlaudimeroApp.ipa",
+  "min_os_version": "26.0",
+  "notes": "Today home with automation results, full result details, conversation links, dismiss/snooze/restore, and cached results when offline. Improved chat and voice shortcut routing. Source: f796a74; product progress: github.com/hartlco/klaudimero/issues/40.",
+  "size": 16877263,
+  "version": "1.0"
+}
