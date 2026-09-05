@@ -1,0 +1,9 @@
+{
+  "build_number": "11",
+  "date": "2026-09-05T13:20:58Z",
+  "file": "KlaudimeroApp.ipa",
+  "min_os_version": "26.0",
+  "notes": "Per-goal assistant model settings: inherit host defaults or pin an engine, model and reasoning effort. Adds GPT-6 Astra and live Codex model discovery. Preserves exact custom choices and records settings changes. Goal execution remains a separate upcoming milestone. Source: a775679; progress: github.com/hartlco/klaudimero/issues/40.",
+  "size": 17328669,
+  "version": "1.0"
+}
