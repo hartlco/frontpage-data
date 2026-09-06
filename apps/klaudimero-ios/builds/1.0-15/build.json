@@ -1,0 +1,9 @@
+{
+  "build_number": "15",
+  "date": "2026-09-06T06:54:38Z",
+  "file": "KlaudimeroApp.ipa",
+  "min_os_version": "26.0",
+  "notes": "Automatic saved-goal and result memory, current-state retrieval and bounded search. New Memory overview with goals, notes, forgetting, persistent check history and findings. Durable checks reconnect safely and avoid duplicate work or false caller-timeout alerts. First release for issue #41; semantic repairs and the seven-day pilot evaluation remain open.",
+  "size": 17481247,
+  "version": "1.0"
+}
