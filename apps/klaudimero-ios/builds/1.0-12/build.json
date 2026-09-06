@@ -1,9 +1,0 @@
-{
-  "build_number": "12",
-  "date": "2026-09-05T14:15:23Z",
-  "file": "KlaudimeroApp.ipa",
-  "min_os_version": "26.0",
-  "notes": "Executable dashboard goals: queue work on the host, follow progress, stop an update, and open its published result. Uses the selected Codex model, including Astra; keeps the previous dashboard on failure. Source: 79d5cdc; progress: github.com/hartlco/klaudimero/issues/40.",
-  "size": 17382270,
-  "version": "1.0"
-}

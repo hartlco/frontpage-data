@@ -1,9 +1,0 @@
-{
-  "build_number": "2",
-  "date": "2026-06-30T09:11:47Z",
-  "file": "mymos.ipa",
-  "min_os_version": "27.0",
-  "notes": "Fix iOS location removal while editing new posts and restore Xcode 27 build compatibility.",
-  "size": 5342730,
-  "version": "1.0"
-}

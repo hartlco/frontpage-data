@@ -1,9 +1,0 @@
-{
-  "build_number": "7049",
-  "date": "2026-08-30T05:52:12Z",
-  "file": "Tsugi-7.0.4b5-7049.dmg",
-  "min_os_version": "15.0",
-  "notes": "Ports the Social, News, and Blog timeline layouts to macOS with stable high-resolution thumbnails, compact News favicons, circular Social avatars, clearer text, and reliable style refreshes.",
-  "size": 13629819,
-  "version": "7.0.4b5"
-}

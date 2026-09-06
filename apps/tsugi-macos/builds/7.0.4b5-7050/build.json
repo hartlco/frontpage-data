@@ -1,9 +1,0 @@
-{
-  "build_number": "7050",
-  "date": "2026-08-30T06:09:18Z",
-  "file": "Tsugi-7.0.4b5-7050.dmg",
-  "min_os_version": "15.0",
-  "notes": "Fixes clipped text and jumpy scrolling in Social timelines by measuring the exact cell width, caching row heights, and updating heights only when content, appearance, or width changes. Developer ID signed, notarized, and stapled.",
-  "size": 13431650,
-  "version": "7.0.4b5"
-}

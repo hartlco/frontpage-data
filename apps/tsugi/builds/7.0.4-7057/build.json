@@ -1,9 +1,0 @@
-{
-  "build_number": "7057",
-  "date": "2026-08-31T19:30:04Z",
-  "file": "Tsugi.ipa",
-  "min_os_version": "17.0",
-  "notes": "Brings the compact favicon and author header from the News layout to Social, giving article text and images the full timeline width on iOS.",
-  "size": 19531927,
-  "version": "7.0.4"
-}

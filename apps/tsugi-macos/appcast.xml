@@ -12,32 +12,5 @@
       <pubDate>Sat, 05 Sep 2026 13:32:18 +0000</pubDate>
       <enclosure url="https://builds.hartl.co/apps/tsugi-macos/builds/7.0.4b5-7060/download/Tsugi-7.0.4b5-7060.dmg" length="12716567" type="application/octet-stream"></enclosure>
     </item>
-    <item>
-      <title>Version 7.0.4b5</title>
-      <sparkle:version>7050</sparkle:version>
-      <sparkle:shortVersionString>7.0.4b5</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description>&lt;p&gt;Fixes clipped text and jumpy scrolling in Social timelines by measuring the exact cell width, caching row heights, and updating heights only when content, appearance, or width changes. Developer ID signed, notarized, and stapled.&lt;/p&gt;</description>
-      <pubDate>Sun, 30 Aug 2026 06:09:18 +0000</pubDate>
-      <enclosure url="https://builds.hartl.co/apps/tsugi-macos/builds/7.0.4b5-7050/download/Tsugi-7.0.4b5-7050.dmg" length="13431650" type="application/octet-stream"></enclosure>
-    </item>
-    <item>
-      <title>Version 7.0.4b5</title>
-      <sparkle:version>7049</sparkle:version>
-      <sparkle:shortVersionString>7.0.4b5</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description>&lt;p&gt;Ports the Social, News, and Blog timeline layouts to macOS with stable high-resolution thumbnails, compact News favicons, circular Social avatars, clearer text, and reliable style refreshes.&lt;/p&gt;</description>
-      <pubDate>Sun, 30 Aug 2026 05:52:12 +0000</pubDate>
-      <enclosure url="https://builds.hartl.co/apps/tsugi-macos/builds/7.0.4b5-7049/download/Tsugi-7.0.4b5-7049.dmg" length="13629819" type="application/octet-stream"></enclosure>
-    </item>
-    <item>
-      <title>Version 7.0.4b5</title>
-      <sparkle:version>7048</sparkle:version>
-      <sparkle:shortVersionString>7.0.4b5</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-      <description>&lt;p&gt;First Frontpage macOS release of Tsugi 7.0.4b5, universal for Apple Silicon and Intel.&lt;/p&gt;</description>
-      <pubDate>Sun, 30 Aug 2026 05:27:47 +0000</pubDate>
-      <enclosure url="https://builds.hartl.co/apps/tsugi-macos/builds/7.0.4b5-7048/download/Tsugi-7.0.4b5-7048.dmg" length="12590109" type="application/octet-stream"></enclosure>
-    </item>
   </channel>
 </rss>
