@@ -1,0 +1,9 @@
+{
+  "build_number": "7211",
+  "date": "2026-09-06T10:16:43Z",
+  "file": "Tsugi-7.1.4b1-7211.dmg",
+  "min_os_version": "15.0",
+  "notes": "Fixes jumping and uneven scrollbar movement in the Social timeline by using stable, exact row heights. Keeps image loading out of row measurement and removes animations during width-driven height updates. Universal app for Apple silicon and Intel, Developer ID signed, notarized, and stapled.",
+  "size": 11425458,
+  "version": "7.1.4b1"
+}

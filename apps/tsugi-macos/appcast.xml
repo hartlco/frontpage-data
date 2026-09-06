@@ -4,6 +4,15 @@
     <title>Tsugi</title>
     <link>https://builds.hartl.co/apps/tsugi-macos/appcast.xml</link>
     <item>
+      <title>Version 7.1.4b1</title>
+      <sparkle:version>7211</sparkle:version>
+      <sparkle:shortVersionString>7.1.4b1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Fixes jumping and uneven scrollbar movement in the Social timeline by using stable, exact row heights. Keeps image loading out of row measurement and removes animations during width-driven height updates. Universal app for Apple silicon and Intel, Developer ID signed, notarized, and stapled.&lt;/p&gt;</description>
+      <pubDate>Sun, 06 Sep 2026 10:16:43 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/tsugi-macos/builds/7.1.4b1-7211/download/Tsugi-7.1.4b1-7211.dmg" length="11425458" type="application/octet-stream"></enclosure>
+    </item>
+    <item>
       <title>Version 7.0.4b5</title>
       <sparkle:version>7060</sparkle:version>
       <sparkle:shortVersionString>7.0.4b5</sparkle:shortVersionString>
