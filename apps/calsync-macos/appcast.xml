@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>CalSync</title>
+    <link>https://builds.hartl.co/apps/calsync-macos/appcast.xml</link>
+    <item>
+      <title>Version 1.0</title>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;First release of CalSync for macOS 14 and newer, supporting Apple Silicon and Intel Macs.&#xA;&#xA;- Mirror multiple iCloud calendars to selected Google calendars through the macOS Calendar accounts.&#xA;- Sync automatically every hour, or use Sync now from the menu bar.&#xA;- Copy full event details or show only Busy, without copying attendees or alerts.&#xA;- Keep updates, recurring exceptions, and confirmed deletions in sync within a rolling window.&#xA;- Optional launch at login, per-mapping pause, and recent sync activity.&#xA;&#xA;Setup: install CalSync in Applications, grant full Calendar access, and select your calendar pairs. Sync runs while the app is open; provider updates depend on macOS Calendar refresh and network availability.&#xA;&lt;/p&gt;</description>
+      <pubDate>Mon, 07 Sep 2026 06:19:47 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/calsync-macos/builds/1.0-1/download/CalSync-1.0-1.dmg" length="1327051" type="application/octet-stream"></enclosure>
+    </item>
+  </channel>
+</rss>
