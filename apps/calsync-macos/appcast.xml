@@ -4,6 +4,15 @@
     <title>CalSync</title>
     <link>https://builds.hartl.co/apps/calsync-macos/appcast.xml</link>
     <item>
+      <title>Version 1.1</title>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;# CalSync 1.1 (2)&#xA;&#xA;Optional two-way sync for iCloud / Google calendar pairs configured in Apple Calendar.&#xA;&#xA;- Create and edit personal events in either calendar. Enable two-way from a mapping’s menu, or choose it when adding a pair.&#xA;- Review competing edits side by side. Independent field edits merge automatically; conflicting choices are applied only to the exact versions reviewed.&#xA;- Propagate deletions after two checks at least five minutes apart. Deletion-versus-edit conflicts let you keep the deletion or restore the remaining version as a standalone event.&#xA;- Preserve existing one-way mappings and adopt their linked copies when enabling two-way.&#xA;- Recover links after interrupted syncs and preserve original alarms and recurrence rules when updating individual recurring occurrences.&#xA;&#xA;Two-way requires full details and exclusive, writable calendar pairs. Invitation-managed originals remain authoritative and are never edited by CalSync. Attendees, alerts, and recurrence rules are not copied. Recurring events are mirrored occurrence by occurrence; editing a copy changes only that original occurrence.&#xA;&#xA;Requires macOS 14 or newer. Universal Apple Silicon / Intel app, Developer ID signed and notarized, with a stapled ticket.&#xA;&#xA;Validation: 53 automated core tests, native UI checks with isolated sample calendars, and a universal Release build. Automated checks do not modify personal calendars; live iCloud / Google round trips remain to be verified with configured accounts.&#xA;&lt;/p&gt;</description>
+      <pubDate>Mon, 07 Sep 2026 07:30:18 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/calsync-macos/builds/1.1-2/download/CalSync-1.1-2.dmg" length="1627121" type="application/octet-stream"></enclosure>
+    </item>
+    <item>
       <title>Version 1.0</title>
       <sparkle:version>1</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>

@@ -1,0 +1,9 @@
+{
+  "build_number": "2",
+  "date": "2026-09-07T07:30:18Z",
+  "file": "CalSync-1.1-2.dmg",
+  "min_os_version": "14.0",
+  "notes": "# CalSync 1.1 (2)\n\nOptional two-way sync for iCloud / Google calendar pairs configured in Apple Calendar.\n\n- Create and edit personal events in either calendar. Enable two-way from a mapping’s menu, or choose it when adding a pair.\n- Review competing edits side by side. Independent field edits merge automatically; conflicting choices are applied only to the exact versions reviewed.\n- Propagate deletions after two checks at least five minutes apart. Deletion-versus-edit conflicts let you keep the deletion or restore the remaining version as a standalone event.\n- Preserve existing one-way mappings and adopt their linked copies when enabling two-way.\n- Recover links after interrupted syncs and preserve original alarms and recurrence rules when updating individual recurring occurrences.\n\nTwo-way requires full details and exclusive, writable calendar pairs. Invitation-managed originals remain authoritative and are never edited by CalSync. Attendees, alerts, and recurrence rules are not copied. Recurring events are mirrored occurrence by occurrence; editing a copy changes only that original occurrence.\n\nRequires macOS 14 or newer. Universal Apple Silicon / Intel app, Developer ID signed and notarized, with a stapled ticket.\n\nValidation: 53 automated core tests, native UI checks with isolated sample calendars, and a universal Release build. Automated checks do not modify personal calendars; live iCloud / Google round trips remain to be verified with configured accounts.\n",
+  "size": 1627121,
+  "version": "1.1"
+}
