@@ -1,0 +1,9 @@
+{
+  "build_number": "2",
+  "date": "2026-09-08T15:48:00Z",
+  "file": "Flush.ipa",
+  "min_os_version": "18.0",
+  "notes": "Fix camera-roll selection opening the camera. Add photos and Camera now respond independently, and removing a photo leaves other attachments intact.",
+  "size": 711192,
+  "version": "1.0.1"
+}
