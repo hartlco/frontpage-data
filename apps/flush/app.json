@@ -1,0 +1,8 @@
+{
+  "name": "Flush",
+  "slug": "flush",
+  "platform": "ios",
+  "bundle_id": "co.hartl.flush",
+  "description": "A private skin journal. Quick check-ins, photos, everyday observations, and a clearer timeline.",
+  "icon": "icon.png"
+}
