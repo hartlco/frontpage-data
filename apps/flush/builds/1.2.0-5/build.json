@@ -1,0 +1,9 @@
+{
+  "build_number": "5",
+  "date": "2026-09-13T13:04:23Z",
+  "file": "Flush.ipa",
+  "min_os_version": "18.0",
+  "notes": "Fixed the crash when opening Flush from a reminder, including when the app was closed. Reminder actions keep an existing draft intact. Added a photo album on Today and Timeline with all saved images, swipe browsing, zoom, and links to the original entries. New camera captures also save to Photos after add-only permission is granted. If Photos access is denied, the capture stays attached to the entry. Existing journal data is preserved.",
+  "size": 762924,
+  "version": "1.2.0"
+}
