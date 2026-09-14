@@ -1,0 +1,9 @@
+{
+  "build_number": "23",
+  "date": "2026-09-14T16:17:20Z",
+  "file": "KlaudimeroApp.ipa",
+  "min_os_version": "26.0",
+  "notes": "Liquid Glass across chat and key app controls. New floating composer with integrated model and engine selection, live model catalogs, attachments, dictation, and send/stop controls. Adaptive large-text and dark-mode layouts. Model choices stay selected when returning to a chat, and cancelled background refreshes no longer show an error.",
+  "size": 17776517,
+  "version": "1.0"
+}
