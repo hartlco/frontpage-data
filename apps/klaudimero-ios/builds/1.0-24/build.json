@@ -1,0 +1,9 @@
+{
+  "build_number": "24",
+  "date": "2026-09-14T16:28:23Z",
+  "file": "KlaudimeroApp.ipa",
+  "min_os_version": "26.0",
+  "notes": "Removed the extra Ask Klaudimero and microphone buttons above the tab bar on Today and Chat. Includes the Liquid Glass conversation composer with an inline model selector, plus the latest memory and Obsidian updates.",
+  "size": 17771878,
+  "version": "1.0"
+}
