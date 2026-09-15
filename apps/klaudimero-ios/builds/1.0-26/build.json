@@ -1,0 +1,9 @@
+{
+  "build_number": "26",
+  "date": "2026-09-15T08:20:32Z",
+  "file": "KlaudimeroApp.ipa",
+  "min_os_version": "26.0",
+  "notes": "Host sources now dynamically lists configured calendars, tasks, location and weather providers with icons and status. Refresh updates every source, and configuration renames and removals appear automatically.",
+  "size": 17838284,
+  "version": "1.0"
+}
