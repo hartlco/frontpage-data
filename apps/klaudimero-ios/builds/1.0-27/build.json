@@ -1,0 +1,9 @@
+{
+  "build_number": "27",
+  "date": "2026-09-15T09:15:19Z",
+  "file": "KlaudimeroApp.ipa",
+  "min_os_version": "26.0",
+  "notes": "Adds Undo completion on completed goals. Reopen a goal in one tap, then ask a follow-up or request changes with previous results and activity preserved. Also works for older completed goals and safely retries interrupted requests.",
+  "size": 17841330,
+  "version": "1.0"
+}
