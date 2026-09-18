@@ -1,0 +1,9 @@
+{
+  "build_number": "6",
+  "date": "2026-09-18T08:09:47Z",
+  "file": "mymos.ipa",
+  "min_os_version": "27.0",
+  "notes": "Server-side Foursquare/Swarm token storage with automatic migration from existing iOS settings. Includes current iOS UI and location-entry updates.",
+  "size": 5392080,
+  "version": "1.1"
+}
