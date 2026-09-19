@@ -1,0 +1,9 @@
+{
+  "build_number": "33",
+  "date": "2026-09-19T05:24:52Z",
+  "file": "KlaudimeroApp.ipa",
+  "min_os_version": "26.0",
+  "notes": "Simpler Notes browsing; Home save and revision-specific Wiki status with Update wiki now; safer draft reconciliation and scope changes; reliable iOS and macOS conflict review; current-day ingestion recovery after external edits.",
+  "size": 18020421,
+  "version": "1.0"
+}
