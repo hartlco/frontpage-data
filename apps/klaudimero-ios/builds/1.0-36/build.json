@@ -1,0 +1,9 @@
+{
+  "build_number": "36",
+  "date": "2026-09-19T08:55:41Z",
+  "file": "KlaudimeroApp.ipa",
+  "min_os_version": "26.0",
+  "notes": "Voice Chat build signed with refreshed Apple Distribution assets. Includes the dedicated Voice Chat widget, shared widget/shortcut launch flow, visible connection and microphone permission errors, retry controls, and safe startup cancellation.",
+  "size": 18134834,
+  "version": "1.0"
+}
