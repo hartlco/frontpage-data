@@ -1,0 +1,9 @@
+{
+  "build_number": "7",
+  "date": "2026-09-20T05:35:41Z",
+  "file": "mymos.ipa",
+  "min_os_version": "27.0",
+  "notes": "Polished the journal redesign and restored abbreviated weekday names on regular timeline posts.",
+  "size": 5392110,
+  "version": "1.1"
+}
