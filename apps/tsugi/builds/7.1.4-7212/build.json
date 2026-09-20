@@ -1,0 +1,9 @@
+{
+  "build_number": "7212",
+  "date": "2026-09-20T06:19:43Z",
+  "file": "Tsugi.ipa",
+  "min_os_version": "17.0",
+  "notes": "Add linkding accounts alongside RSS, with read/unread filters and sync, tag filtering and editing, search, archive, and saving RSS articles to linkding. Bookmark metadata and pending edits persist offline. Uses the existing timeline appearance with Dynamic Type support.",
+  "size": 19986983,
+  "version": "7.1.4"
+}
