@@ -1,0 +1,9 @@
+{
+  "build_number": "7214",
+  "date": "2026-09-20T06:55:02Z",
+  "file": "Tsugi.ipa",
+  "min_os_version": "17.0",
+  "notes": "Each read-later account now has its own collapsible sidebar section with All, Unread, and Read entry points and counts. Multiple linkding accounts coexist independently alongside RSS. Add Account is available from the main page, and account headers provide settings and refresh actions. Collapsed sections persist across launches.",
+  "size": 20002046,
+  "version": "7.1.4"
+}
