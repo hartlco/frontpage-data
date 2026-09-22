@@ -1,0 +1,9 @@
+{
+  "build_number": "38",
+  "date": "2026-09-22T18:33:35Z",
+  "file": "KlaudimeroApp.ipa",
+  "min_os_version": "26.0",
+  "notes": "Add GPT-6 Sol and GPT-6 Luna to model selection and make GPT-6 Luna the host default.",
+  "size": 18197940,
+  "version": "1.0"
+}
