@@ -1,0 +1,8 @@
+{
+  "name": "Joycue",
+  "slug": "joycue-ios",
+  "platform": "ios",
+  "bundle_id": "de.martin.Joycue",
+  "description": "Save what catches your eye. Find it again when you have time. Native iOS 27 app for ideas, gentle reminders, and memories.",
+  "icon": "icon.png"
+}
