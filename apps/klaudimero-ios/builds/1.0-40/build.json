@@ -1,0 +1,9 @@
+{
+  "build_number": "40",
+  "date": "2026-09-26T19:07:16Z",
+  "file": "KlaudimeroApp.ipa",
+  "min_os_version": "26.0",
+  "notes": "Browser tasks now live beside the model selector in the chat composer. The globe opens active sessions and highlights requests for help. Automatic browser delegation from ordinary chat remains enabled.",
+  "size": 18282162,
+  "version": "1.0"
+}
