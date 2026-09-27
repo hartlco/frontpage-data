@@ -1,0 +1,9 @@
+{
+  "build_number": "41",
+  "date": "2026-09-27T05:40:58Z",
+  "file": "KlaudimeroApp.ipa",
+  "min_os_version": "26.0",
+  "notes": "Browser findings and questions now return to your chat, with inline login takeover and automatic return after completion. Better cookie consent handling, labelled fields, dropdowns, checkboxes, iframe and shadow-DOM forms.",
+  "size": 18284894,
+  "version": "1.0"
+}
