@@ -1,0 +1,9 @@
+{
+  "build_number": "394",
+  "date": "2026-09-27T12:54:09Z",
+  "file": "Icro.ipa",
+  "min_os_version": "27.0",
+  "notes": "Post time labels stay aligned to the trailing edge, while long author names and handles truncate to fit.",
+  "size": 3124142,
+  "version": "3.3.4"
+}
