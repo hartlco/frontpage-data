@@ -1,0 +1,9 @@
+{
+  "build_number": "395",
+  "date": "2026-09-29T08:37:19Z",
+  "file": "Icro.ipa",
+  "min_os_version": "27.0",
+  "notes": "Tighter timeline spacing and bottom-leading post actions. Composer highlights @mentions and suggests people from Following and reply conversations.",
+  "size": 3161056,
+  "version": "3.3.5"
+}
