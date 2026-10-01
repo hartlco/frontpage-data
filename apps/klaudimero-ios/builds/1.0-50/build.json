@@ -1,0 +1,9 @@
+{
+  "build_number": "50",
+  "date": "2026-10-01T09:13:52Z",
+  "file": "KlaudimeroApp.ipa",
+  "min_os_version": "26.0",
+  "notes": "Removed the native status and Voice Chat widget extension and its background polling/cache. Start Voice Chat App Shortcut, deep links and push notifications remain available.",
+  "size": 7807973,
+  "version": "1.0"
+}
