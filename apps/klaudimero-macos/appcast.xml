@@ -5,6 +5,15 @@
     <link>https://builds.hartl.co/apps/klaudimero-macos/appcast.xml</link>
     <item>
       <title>Version 1.0</title>
+      <sparkle:version>48</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;New simple chick icon inspired by Cadu, with a light background and translucent Liquid Glass layers. Universal Apple Silicon and Intel app, Developer ID signed and notarized by Apple.&lt;/p&gt;</description>
+      <pubDate>Thu, 01 Oct 2026 06:43:01 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/klaudimero-macos/builds/1.0-48/download/Klaudimero-1.0-48.dmg" length="8007102" type="application/octet-stream"></enclosure>
+    </item>
+    <item>
+      <title>Version 1.0</title>
       <sparkle:version>2</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>

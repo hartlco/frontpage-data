@@ -1,7 +1,7 @@
 {
   "bundle_id": "co.hartl.KlaudimeroApp",
   "description": "",
-  "icon": "",
+  "icon": "icon.png",
   "name": "Klaudimero",
   "platform": "macos",
   "slug": "klaudimero-macos"
