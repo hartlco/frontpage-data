@@ -1,0 +1,9 @@
+{
+  "build_number": "398",
+  "date": "2026-10-01T20:02:30Z",
+  "file": "Icro.ipa",
+  "min_os_version": "27.0",
+  "notes": "Restores the light default app icon and tints new-post, status, and mention glass popovers with the app color.",
+  "size": 7686385,
+  "version": "3.3.8"
+}
