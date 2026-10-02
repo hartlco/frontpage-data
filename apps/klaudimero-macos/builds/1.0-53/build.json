@@ -1,0 +1,9 @@
+{
+  "build_number": "53",
+  "date": "2026-10-02T16:12:51Z",
+  "file": "Klaudimero-1.0-53.dmg",
+  "min_os_version": "26.0",
+  "notes": "New goals now start with executable host defaults without changing the model. Default selections stay inherited, with improved assistant loading and connection retry for goals and suggestions. Universal Apple Silicon and Intel app, Developer ID signed and notarized by Apple.",
+  "size": 8249040,
+  "version": "1.0"
+}
