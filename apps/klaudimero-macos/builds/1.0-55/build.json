@@ -1,0 +1,9 @@
+{
+  "build_number": "55",
+  "date": "2026-10-02T18:42:17Z",
+  "file": "Klaudimero-1.0-55.dmg",
+  "min_os_version": "26.0",
+  "notes": "Browser-style tabs and address bar with automatic HTTPS for bare website addresses. Improved address replacement and active-tab visibility. Host Terminal supports explicitly configured HTTP connections with owner authorization.",
+  "size": 10194552,
+  "version": "1.0"
+}
