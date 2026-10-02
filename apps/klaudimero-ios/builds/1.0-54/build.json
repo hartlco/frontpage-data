@@ -1,0 +1,9 @@
+{
+  "build_number": "54",
+  "date": "2026-10-02T17:29:40Z",
+  "file": "KlaudimeroApp.ipa",
+  "min_os_version": "26.0",
+  "notes": "Open the host Browser without a chat, use native navigation and type directly on iOS and macOS. Host terminal support is included and remains disabled pending physical iPhone validation. Includes the inherited goal assistant validation fix.",
+  "size": 8678664,
+  "version": "1.0"
+}
