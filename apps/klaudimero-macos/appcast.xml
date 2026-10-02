@@ -5,6 +5,15 @@
     <link>https://builds.hartl.co/apps/klaudimero-macos/appcast.xml</link>
     <item>
       <title>Version 1.0</title>
+      <sparkle:version>57</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Connector context links explicitly related tasks, reservations and fresh coarse location with revocable evidence and qualified explanations. Memory adds source permissions, supporting observations, correction, dismissal, forgetting and reviewed learning. New source permissions remain off by default. Implements #61 connector recall and review.&lt;/p&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 20:37:15 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/klaudimero-macos/builds/1.0-57/download/Klaudimero-1.0-57.dmg" length="10428401" type="application/octet-stream"></enclosure>
+    </item>
+    <item>
+      <title>Version 1.0</title>
       <sparkle:version>56</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
