@@ -5,6 +5,15 @@
     <link>https://builds.hartl.co/apps/klaudimero-macos/appcast.xml</link>
     <item>
       <title>Version 1.0</title>
+      <sparkle:version>58</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Manage connector permissions directly in Settings → Memory → Connector context → Source permissions. Choose conversation context and reviewed learning separately, with clear explanations, Save confirmation, safe conflict reload and retry. Turning context off also turns learning off. Existing permissions and source setup are preserved.&lt;/p&gt;</description>
+      <pubDate>Sat, 03 Oct 2026 04:32:56 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/klaudimero-macos/builds/1.0-58/download/Klaudimero-1.0-58.dmg" length="10523592" type="application/octet-stream"></enclosure>
+    </item>
+    <item>
+      <title>Version 1.0</title>
       <sparkle:version>57</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
