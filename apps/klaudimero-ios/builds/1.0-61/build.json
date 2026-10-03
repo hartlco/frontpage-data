@@ -1,0 +1,9 @@
+{
+  "build_number": "61",
+  "date": "2026-10-03T10:24:11Z",
+  "file": "KlaudimeroApp.ipa",
+  "min_os_version": "26.0",
+  "notes": "Simplify Browser to managed Chrome only. Remove personal Chrome access, the profile selector, extension and native bridge. Keep Google search and saved managed website logins.",
+  "size": 8830905,
+  "version": "1.0"
+}
