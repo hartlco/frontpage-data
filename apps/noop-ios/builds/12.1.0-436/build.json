@@ -1,0 +1,9 @@
+{
+  "build_number": "436",
+  "date": "2026-10-10T13:35:18Z",
+  "file": "NOOP-12.1.0-436.ipa",
+  "min_os_version": "17.0",
+  "notes": "Personal ad-hoc Release build from main at e5801750. Includes HealthKit, iOS widgets, Live Activities, and the Apple Watch companion. Requires a device registered with the signing team.",
+  "size": 22349929,
+  "version": "12.1.0"
+}

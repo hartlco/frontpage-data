@@ -1,0 +1,8 @@
+{
+  "name": "NOOP",
+  "slug": "noop-ios",
+  "platform": "ios",
+  "bundle_id": "co.hartl.noop",
+  "description": "Offline, on-device companion for WHOOP straps. Personal ad-hoc iOS build with widgets and Apple Watch companion.",
+  "icon": "icon.png"
+}
