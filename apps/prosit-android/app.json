@@ -2,7 +2,7 @@
   "name": "Prosit for Android",
   "slug": "prosit-android",
   "platform": "android",
-  "bundle_id": "co.hartl.prosit.debug",
-  "description": "Native Kotlin and Jetpack Compose app for encrypted updates, friends and circles. Development-key preview; live passkey sign-in requires production signing and server certificate association.",
+  "bundle_id": "co.hartl.prosit",
+  "description": "Native Android app for private updates from your people. Read your circles and share personally, with clear human and agent authorship.",
   "icon": "icon.png"
 }
