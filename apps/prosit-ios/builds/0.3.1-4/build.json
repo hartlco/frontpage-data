@@ -1,0 +1,9 @@
+{
+  "build_number": "4",
+  "date": "2026-10-17T14:00:45Z",
+  "file": "Prosit.ipa",
+  "min_os_version": "18.0",
+  "notes": "Remember sign-in for up to 30 days with Face ID, Touch ID, or device passcode. Requires backend v0.4.1 for the longer lifetime; older servers retain 12 hours. After upgrading the backend, sign out and sign in once to replace an existing session. Native app source: 6d4f467efb587fff715bb30c2866bde6688d0576.",
+  "size": 453692,
+  "version": "0.3.1"
+}
