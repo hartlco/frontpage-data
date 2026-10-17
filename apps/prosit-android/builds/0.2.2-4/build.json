@@ -1,0 +1,9 @@
+{
+  "build_number": "4",
+  "date": "2026-10-17T16:06:56Z",
+  "file": "app-release.apk",
+  "min_os_version": "API28",
+  "notes": "Vault passphrase prompts now stay open when switching to Bitwarden or another app. Incorrect passphrases can be retried without restarting sign-in. Remember sign-in for up to 30 days, protected by device biometrics or PIN. Signing out or forgetting saved sign-in removes saved access from this device. Updates the signed 0.2.1 release app; no server update is needed.",
+  "size": 3874769,
+  "version": "0.2.2"
+}
