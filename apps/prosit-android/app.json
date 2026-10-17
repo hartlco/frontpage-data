@@ -3,6 +3,6 @@
   "slug": "prosit-android",
   "platform": "android",
   "bundle_id": "co.hartl.prosit.debug",
-  "description": "Development companion for private updates, friends and circles. Uses the encrypted web vault; Android passkeys require matching server certificate configuration.",
+  "description": "Native Kotlin and Jetpack Compose app for encrypted updates, friends and circles. Development-key preview; live passkey sign-in requires production signing and server certificate association.",
   "icon": "icon.png"
 }
