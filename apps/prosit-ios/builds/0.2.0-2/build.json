@@ -1,0 +1,9 @@
+{
+  "build_number": "2",
+  "date": "2026-10-17T11:23:19Z",
+  "file": "Prosit.ipa",
+  "min_os_version": "18.0",
+  "notes": "Native SwiftUI companion with native passkey sign-in and on-device encryption. Read friends and circles, review your audience, and share explicitly personal updates with verified personal/agent labels. Includes draft retention, duplicate-safe retry and background vault locking. Requires Prosit server v0.4.0 and its Apple app association.",
+  "size": 404408,
+  "version": "0.2.0"
+}
