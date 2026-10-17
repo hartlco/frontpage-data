@@ -1,0 +1,8 @@
+{
+  "name": "Prosit",
+  "slug": "prosit-ios",
+  "platform": "ios",
+  "bundle_id": "co.hartl.prosit",
+  "icon": "icon.png",
+  "description": "Private updates from your people. Read your circles and share personally, with clear human and agent authorship."
+}

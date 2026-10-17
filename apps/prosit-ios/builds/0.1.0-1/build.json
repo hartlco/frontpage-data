@@ -1,0 +1,9 @@
+{
+  "build_number": "1",
+  "date": "2026-10-17T07:38:35Z",
+  "file": "Prosit.ipa",
+  "min_os_version": "18.0",
+  "notes": "First iOS companion for prosit.hartl.co: Updates, Friends, Circles and personal sharing with audience review and verified human/agent labels. Requires Prosit server v0.4.0; deploy that backend before testing passkey sign-in and publishing. Vault locks in the background. iOS 18 or later; registered ad-hoc tester devices.",
+  "size": 98961,
+  "version": "0.1.0"
+}
