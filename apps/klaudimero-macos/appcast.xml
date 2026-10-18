@@ -5,6 +5,15 @@
     <link>https://builds.hartl.co/apps/klaudimero-macos/appcast.xml</link>
     <item>
       <title>Version 1.0</title>
+      <sparkle:version>69</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Issue #75: Connector settings and chat now explain effective access, stale observations, sharing permissions, local city mapping and current-location history limits. Things chat reads enforce the current owner, sharing permission, freshness and field restrictions. Existing connector settings are preserved. Internal Apple Development-signed build with hardened runtime.&lt;/p&gt;</description>
+      <pubDate>Sun, 18 Oct 2026 09:44:36 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/klaudimero-macos/builds/1.0-69/download/Klaudimero-1.0-69.dmg" length="10904882" type="application/octet-stream"></enclosure>
+    </item>
+    <item>
+      <title>Version 1.0</title>
       <sparkle:version>66</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>

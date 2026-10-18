@@ -1,0 +1,9 @@
+{
+  "build_number": "69",
+  "date": "2026-10-18T09:44:36Z",
+  "file": "Klaudimero-1.0-69.dmg",
+  "min_os_version": "26.0",
+  "notes": "Issue #75: Connector settings and chat now explain effective access, stale observations, sharing permissions, local city mapping and current-location history limits. Things chat reads enforce the current owner, sharing permission, freshness and field restrictions. Existing connector settings are preserved. Internal Apple Development-signed build with hardened runtime.",
+  "size": 10904882,
+  "version": "1.0"
+}
