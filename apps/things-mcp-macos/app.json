@@ -1,8 +1,8 @@
 {
-  "name": "Things MCP",
+  "name": "MacMCP",
   "slug": "things-mcp-macos",
   "platform": "macos",
   "bundle_id": "co.hartl.things-mcp",
-  "description": "A menu bar MCP server for authorized agents on your Mac and network.",
+  "description": "Things, Apple Mail, and Calendar for authorized agents on your Mac and network. Choose integrations, sources, and token access.",
   "icon": "icon.png"
 }

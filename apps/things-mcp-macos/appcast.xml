@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>Things MCP</title>
+    <title>MacMCP</title>
     <link>https://builds.hartl.co/apps/things-mcp-macos/appcast.xml</link>
+    <item>
+      <title>Version 1.1.0</title>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Things MCP is now MacMCP. Adds read-only Apple Mail and Calendar integrations with explicit source selection and per-token app permissions. Existing Things tokens, settings, and endpoints are preserved. Mail and Calendar start disabled. Universal, Developer ID signed and notarized.&lt;/p&gt;</description>
+      <pubDate>Mon, 19 Oct 2026 06:26:37 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/things-mcp-macos/builds/1.1.0-2/download/MacMCP-1.1.0-2.dmg" length="1496572" type="application/octet-stream"></enclosure>
+    </item>
     <item>
       <title>Version 1.0.0</title>
       <sparkle:version>1</sparkle:version>
