@@ -1,0 +1,8 @@
+{
+  "name": "Hermes for Mac",
+  "slug": "hermes-macos",
+  "platform": "macos",
+  "bundle_id": "co.hartl.HermesApple",
+  "description": "Native Hermes Agent client for Apple Silicon and Intel Macs, with configurable profiles and streaming chat.",
+  "icon": "icon.png"
+}
