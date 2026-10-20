@@ -1,0 +1,8 @@
+{
+  "name": "Hermes",
+  "slug": "hermes-ios",
+  "platform": "ios",
+  "bundle_id": "co.hartl.HermesApple",
+  "description": "Native Hermes Agent client for iPhone and iPad, with configurable profiles and streaming chat.",
+  "icon": "icon.png"
+}
