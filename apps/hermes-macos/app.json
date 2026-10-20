@@ -1,8 +1,8 @@
 {
-  "name": "Hermes for Mac",
+  "name": "Klaudimero for Mac",
   "slug": "hermes-macos",
   "platform": "macos",
   "bundle_id": "co.hartl.HermesApple",
-  "description": "Native Hermes Agent client for Apple Silicon and Intel Macs, with configurable profiles and streaming chat.",
+  "description": "Klaudimero for macOS, powered by Hermes. Original Klaudimero design and logo, server-managed agents, and dashboard sign-in.",
   "icon": "icon.png"
 }

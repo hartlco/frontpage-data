@@ -1,8 +1,8 @@
 {
-  "name": "Hermes",
+  "name": "Klaudimero",
   "slug": "hermes-ios",
   "platform": "ios",
   "bundle_id": "co.hartl.HermesApple",
-  "description": "Native Hermes Agent client for iPhone and iPad, with configurable profiles and streaming chat.",
+  "description": "Klaudimero for iPhone and iPad, powered by Hermes. Server-managed agent profiles, username/password sign-in, and streaming chat.",
   "icon": "icon.png"
 }
