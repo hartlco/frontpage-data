@@ -4,6 +4,15 @@
     <title>Klaudimero for Mac</title>
     <link>https://builds.hartl.co/apps/hermes-macos/appcast.xml</link>
     <item>
+      <title>Version 0.1.5</title>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Cadu-inspired Bots, Chats, Jobs and More navigation. Warm canvas, floating phone dock, compact composer, inline tools and approvals, and iPad/Mac sidebar. Read-only Hermes schedules and Tasks for chats running in Klaudimero. Original name and logo preserved. Old-chat editing still awaits the Hermes backend fix.&lt;/p&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 05:57:37 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/hermes-macos/builds/0.1.5-6/download/Klaudimero-0.1.5-6.dmg" length="4185781" type="application/octet-stream"></enclosure>
+    </item>
+    <item>
       <title>Version 0.1.4</title>
       <sparkle:version>5</sparkle:version>
       <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
