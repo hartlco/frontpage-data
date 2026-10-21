@@ -5,6 +5,15 @@
     <link>https://builds.hartl.co/apps/hermes-macos/appcast.xml</link>
     <item>
       <title>Version 0.1.8</title>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Improve chat updates during tools and handoffs, add chats grouped by bot and latest-message previews, and fix photo sending.&lt;/p&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 08:40:02 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/hermes-macos/builds/0.1.8-10/download/Klaudimero-0.1.8-10.dmg" length="4548530" type="application/octet-stream"></enclosure>
+    </item>
+    <item>
+      <title>Version 0.1.8</title>
       <sparkle:version>9</sparkle:version>
       <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
