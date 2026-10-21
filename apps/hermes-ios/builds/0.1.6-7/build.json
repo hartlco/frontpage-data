@@ -1,0 +1,9 @@
+{
+  "build_number": "7",
+  "date": "2026-10-21T06:57:14Z",
+  "file": "Klaudimero.ipa",
+  "min_os_version": "26.0",
+  "notes": "Jobs now load independently of profile discovery. Expanded multiline composer with separate model settings and context usage. Plus attaches photos and files, with Camera and Scan Document on supported iOS devices. Bot taps open the main Bot Chat. Customize bot symbols, colors, or photos per server on this device.",
+  "size": 6217594,
+  "version": "0.1.6"
+}
