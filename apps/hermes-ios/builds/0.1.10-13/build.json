@@ -1,0 +1,9 @@
+{
+  "build_number": "13",
+  "date": "2026-10-21T13:07:09Z",
+  "file": "Klaudimero.ipa",
+  "min_os_version": "26.0",
+  "notes": "Native iOS 27 navigation headers and tabs; grouped settings and server details; swipe to rename chats or confirm deletion; optional haptics on Send and successful final replies in the open chat.",
+  "size": 6324061,
+  "version": "0.1.10"
+}
