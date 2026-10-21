@@ -4,6 +4,15 @@
     <title>Klaudimero for Mac</title>
     <link>https://builds.hartl.co/apps/hermes-macos/appcast.xml</link>
     <item>
+      <title>Version 0.1.7</title>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Fix photo sending compatibility with Hermes. Preview photos, PDFs, and text in the composer and chat, including saved conversations.&lt;/p&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 07:35:55 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/hermes-macos/builds/0.1.7-8/download/Klaudimero-0.1.7-8.dmg" length="4436343" type="application/octet-stream"></enclosure>
+    </item>
+    <item>
       <title>Version 0.1.6</title>
       <sparkle:version>7</sparkle:version>
       <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
