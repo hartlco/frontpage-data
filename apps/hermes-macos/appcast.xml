@@ -5,6 +5,15 @@
     <link>https://builds.hartl.co/apps/hermes-macos/appcast.xml</link>
     <item>
       <title>Version 0.1.9</title>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Fix duplicate replies and flickering reasoning, tighten composer spacing, and dismiss the keyboard on chat taps and scrolling while keeping replies visible.&lt;/p&gt;</description>
+      <pubDate>Wed, 21 Oct 2026 09:27:50 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/hermes-macos/builds/0.1.9-12/download/Klaudimero-0.1.9-12.dmg" length="4562668" type="application/octet-stream"></enclosure>
+    </item>
+    <item>
+      <title>Version 0.1.9</title>
       <sparkle:version>11</sparkle:version>
       <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
