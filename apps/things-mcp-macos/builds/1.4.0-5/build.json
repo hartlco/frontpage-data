@@ -1,0 +1,9 @@
+{
+  "build_number": "5",
+  "date": "2026-10-21T04:45:20Z",
+  "file": "MacMCP-1.4.0-5.dmg",
+  "min_os_version": "14.0",
+  "notes": "Adds Obsidian vaults with locally selected folders and per-token read/write access. List, search, read, create, replace, append, and trash Markdown notes without a plugin. Revision checks and recoverable prior versions protect editing. Existing tokens and settings retain their permissions; Obsidian starts disabled with no vaults selected. Universal, Developer ID signed and notarized.",
+  "size": 1761932,
+  "version": "1.4.0"
+}
