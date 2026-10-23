@@ -1,0 +1,9 @@
+{
+  "build_number": "26",
+  "date": "2026-10-23T13:26:39Z",
+  "file": "Klaudimero.ipa",
+  "min_os_version": "26.0",
+  "notes": "Encrypts notification events and chat routing end to end with device Keychain keys, RFC9180 HPKE and authenticated Hermes signatures. Adds a signed notification service extension and rejects plaintext delivery. Requires companion plugin0.2.0 and the updated relay; existing pinned installations need an explicit reviewed upgrade. Apple key setup and real APNs delivery verification remain deferred. Generic fallback and essential delivery metadata stay visible.",
+  "size": 6926678,
+  "version": "0.2.1"
+}
