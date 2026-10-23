@@ -1,0 +1,9 @@
+{
+  "build_number": "26",
+  "date": "2026-10-23T15:04:00Z",
+  "file": "Klaudimero-0.2.1-26.dmg",
+  "min_os_version": "26.0",
+  "notes": "Native universal Mac release, signed with Developer ID and notarized by Apple. App and DMG tickets are stapled and Gatekeeper accepts both. Includes the current Klaudimero interface and encrypted push support; push delivery requires the separately configured relay.",
+  "size": 5751935,
+  "version": "0.2.1"
+}

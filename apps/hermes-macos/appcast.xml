@@ -4,6 +4,15 @@
     <title>Klaudimero for Mac</title>
     <link>https://builds.hartl.co/apps/hermes-macos/appcast.xml</link>
     <item>
+      <title>Version 0.2.1</title>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Native universal Mac release, signed with Developer ID and notarized by Apple. App and DMG tickets are stapled and Gatekeeper accepts both. Includes the current Klaudimero interface and encrypted push support; push delivery requires the separately configured relay.&lt;/p&gt;</description>
+      <pubDate>Fri, 23 Oct 2026 15:04:00 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/hermes-macos/builds/0.2.1-26/download/Klaudimero-0.2.1-26.dmg" length="5751935" type="application/octet-stream"></enclosure>
+    </item>
+    <item>
       <title>Version 0.1.17</title>
       <sparkle:version>20</sparkle:version>
       <sparkle:shortVersionString>0.1.17</sparkle:shortVersionString>
