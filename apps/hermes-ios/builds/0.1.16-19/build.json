@@ -1,0 +1,9 @@
+{
+  "build_number": "19",
+  "date": "2026-10-23T04:24:16Z",
+  "file": "Klaudimero.ipa",
+  "min_os_version": "26.0",
+  "notes": "Bots opens each profile’s main Bot Chat. Bot previews show the latest reply from that main chat, including continued sessions. Native Back returns to Bots; Chats keeps its own navigation.",
+  "size": 6367906,
+  "version": "0.1.16"
+}
