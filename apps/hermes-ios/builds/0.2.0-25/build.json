@@ -1,0 +1,9 @@
+{
+  "build_number": "25",
+  "date": "2026-10-23T12:53:10Z",
+  "file": "Klaudimero.ipa",
+  "min_os_version": "26.0",
+  "notes": "Adds optional Klaudimero plugin installation and cross-device bot icon sync, with revision-safe edits and explicit conflict choices. Includes native notification permission, registration, chat routing and a separate generic-alert APNs relay. Real push delivery awaits relay and Apple key setup. Fixes notification-tap callback threading. GitHub Actions stays disabled; checks run locally.",
+  "size": 6616382,
+  "version": "0.2.0"
+}
