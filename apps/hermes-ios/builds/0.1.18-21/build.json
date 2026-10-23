@@ -1,0 +1,9 @@
+{
+  "build_number": "21",
+  "date": "2026-10-23T09:17:48Z",
+  "file": "Klaudimero.ipa",
+  "min_os_version": "26.0",
+  "notes": "Move internal Hermes background-process completion notices into collapsed Reasoning \u0026 tools details. Keep real bot replies visible and exclude internal notices and hidden rows from chat previews. Includes the current guarded deletion, archive, secure input, handoff and bot-chat improvements.",
+  "size": 6447087,
+  "version": "0.1.18"
+}
