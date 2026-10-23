@@ -4,6 +4,15 @@
     <title>Klaudimero for Mac</title>
     <link>https://builds.hartl.co/apps/hermes-macos/appcast.xml</link>
     <item>
+      <title>Version 0.1.17</title>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>0.1.17</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Native universal macOS SwiftUI app for Apple silicon and Intel, built with the macOS 27 SDK. Dedicated desktop workspace with three-column Chats, native Bots and Jobs tables, Jobs inspector, standard Settings window and keyboard commands. Includes compact agent handoffs, reasoning and tools disclosures, secure input, guarded chat deletion and server-backed archive/restore. Internal build signed with Apple Development, published without notarization at the owner’s request; Gatekeeper does not accept this build automatically. Notarization remains tracked in GitHub issue #1.&lt;/p&gt;</description>
+      <pubDate>Fri, 23 Oct 2026 06:11:53 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/hermes-macos/builds/0.1.17-20/download/Klaudimero-0.1.17-20.dmg" length="4653293" type="application/octet-stream"></enclosure>
+    </item>
+    <item>
       <title>Version 0.1.10</title>
       <sparkle:version>13</sparkle:version>
       <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>

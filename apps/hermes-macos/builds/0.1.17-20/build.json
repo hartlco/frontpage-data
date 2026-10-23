@@ -1,0 +1,9 @@
+{
+  "build_number": "20",
+  "date": "2026-10-23T06:11:53Z",
+  "file": "Klaudimero-0.1.17-20.dmg",
+  "min_os_version": "26.0",
+  "notes": "Native universal macOS SwiftUI app for Apple silicon and Intel, built with the macOS 27 SDK. Dedicated desktop workspace with three-column Chats, native Bots and Jobs tables, Jobs inspector, standard Settings window and keyboard commands. Includes compact agent handoffs, reasoning and tools disclosures, secure input, guarded chat deletion and server-backed archive/restore. Internal build signed with Apple Development, published without notarization at the owner’s request; Gatekeeper does not accept this build automatically. Notarization remains tracked in GitHub issue #1.",
+  "size": 4653293,
+  "version": "0.1.17"
+}
