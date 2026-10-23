@@ -1,0 +1,9 @@
+{
+  "build_number": "27",
+  "date": "2026-10-23T16:17:14Z",
+  "file": "Klaudimero.ipa",
+  "min_os_version": "26.0",
+  "notes": "Automatic encrypted notifications with plugin 0.3.0: no relay URL, password or environment setup on Hermes. Device ownership is verified through an encrypted Apple notification; host-scoped grants, fresh re-enrollment keys and durable opt-out cleanup. The service operator must deploy relay 0.3.0 with the Apple key for real delivery.",
+  "size": 6975427,
+  "version": "0.2.2"
+}
