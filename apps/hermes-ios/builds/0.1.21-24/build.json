@@ -1,0 +1,9 @@
+{
+  "build_number": "24",
+  "date": "2026-10-23T11:00:49Z",
+  "file": "Klaudimero.ipa",
+  "min_os_version": "26.0",
+  "notes": "Your Bots is now the single Bots page title. Deleting a conversation opens a standard alert with the selected chat name and Cancel/Delete actions in Chats and Archived chats.",
+  "size": 6504480,
+  "version": "0.1.21"
+}
