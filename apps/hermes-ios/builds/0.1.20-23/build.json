@@ -1,0 +1,9 @@
+{
+  "build_number": "23",
+  "date": "2026-10-23T10:19:29Z",
+  "file": "Klaudimero.ipa",
+  "min_os_version": "26.0",
+  "notes": "Customize icon now opens Chick Studio directly for existing bots. Saved photo and symbol icons remain intact until Save, and Cancel preserves the current icon. Verified saved-symbol, photo and custom-chick flows on iPhone simulator.",
+  "size": 6504645,
+  "version": "0.1.20"
+}
