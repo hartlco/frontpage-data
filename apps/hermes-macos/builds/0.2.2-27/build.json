@@ -1,0 +1,9 @@
+{
+  "build_number": "27",
+  "date": "2026-10-23T16:18:52Z",
+  "file": "Klaudimero-0.2.2-27.dmg",
+  "min_os_version": "26.0",
+  "notes": "Automatic encrypted notification enrollment with plugin0.3.0; no relay settings or shared password on Hermes. Host-scoped grants, encrypted device verification and durable opt-out cleanup. Universal native Mac app, Developer ID signed and notarized by Apple. The service operator deploys relay0.3.0 with the Apple key to enable real APNs delivery.",
+  "size": 5870283,
+  "version": "0.2.2"
+}
