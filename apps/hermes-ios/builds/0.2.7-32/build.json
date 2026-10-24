@@ -1,0 +1,9 @@
+{
+  "build_number": "32",
+  "date": "2026-10-24T05:55:33Z",
+  "file": "Klaudimero.ipa",
+  "min_os_version": "26.0",
+  "notes": "Reconcile plugin 0.5.0 proactive delivery chats with encrypted reply previews. Update all bots, including older named bots when the default is current. Restart the Hermes dashboard and relevant gateways after updating; relay and certificates unchanged.",
+  "size": 7064571,
+  "version": "0.2.7"
+}
