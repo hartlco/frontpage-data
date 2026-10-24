@@ -4,6 +4,15 @@
     <title>Klaudimero for Mac</title>
     <link>https://builds.hartl.co/apps/hermes-macos/appcast.xml</link>
     <item>
+      <title>Version 0.2.6</title>
+      <sparkle:version>31</sparkle:version>
+      <sparkle:shortVersionString>0.2.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Show actual signed and encrypted reply previews in notifications instead of generic verified event text. Adds metadata-only extension decryption status and verified foreground presentation. Requires plugin0.4.3 update and dashboard/gateway restart; relay and certificates unchanged. Native universal Mac, Developer ID signed and notarized.&lt;/p&gt;</description>
+      <pubDate>Sat, 24 Oct 2026 05:18:43 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/hermes-macos/builds/0.2.6-31/download/Klaudimero-0.2.6-31.dmg" length="6083441" type="application/octet-stream"></enclosure>
+    </item>
+    <item>
       <title>Version 0.2.5</title>
       <sparkle:version>30</sparkle:version>
       <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>

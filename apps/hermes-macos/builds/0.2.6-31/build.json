@@ -1,0 +1,9 @@
+{
+  "build_number": "31",
+  "date": "2026-10-24T05:18:43Z",
+  "file": "Klaudimero-0.2.6-31.dmg",
+  "min_os_version": "26.0",
+  "notes": "Show actual signed and encrypted reply previews in notifications instead of generic verified event text. Adds metadata-only extension decryption status and verified foreground presentation. Requires plugin0.4.3 update and dashboard/gateway restart; relay and certificates unchanged. Native universal Mac, Developer ID signed and notarized.",
+  "size": 6083441,
+  "version": "0.2.6"
+}
