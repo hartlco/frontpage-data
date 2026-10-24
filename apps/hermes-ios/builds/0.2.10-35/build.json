@@ -1,0 +1,9 @@
+{
+  "build_number": "35",
+  "date": "2026-10-24T11:13:41Z",
+  "file": "Klaudimero.ipa",
+  "min_os_version": "26.0",
+  "notes": "Assistant screenshots and other MEDIA image deliveries now display as tappable previews in live replies and saved conversations, including image-only replies. Correct iOS bundle packaging and preserve profile-scoped authenticated image loading.",
+  "size": 7071162,
+  "version": "0.2.10"
+}
