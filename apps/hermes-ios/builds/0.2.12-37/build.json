@@ -1,0 +1,9 @@
+{
+  "build_number": "37",
+  "date": "2026-10-24T14:02:57Z",
+  "file": "Klaudimero.ipa",
+  "min_os_version": "26.0",
+  "notes": "Pin companion 0.6.0 with encrypted reply previews and account-scoped Mac activity. Detect old loaded plugin code even when its version label appears current. Phone pushes pause while Klaudimero is active on Mac and resume afterward without replaying suppressed alerts. Update the plugin for all bots and restart the Hermes dashboard and gateway; no relay or certificate change is needed.",
+  "size": 7077583,
+  "version": "0.2.12"
+}
