@@ -1,0 +1,10 @@
+{
+  "build_number": "36",
+  "date": "2026-10-24T12:32:29Z",
+  "file": "Klaudimero-0.2.11-36.dmg",
+  "min_os_version": "26.0",
+  "notes": "Fix selection across complete Mac replies, including Markdown lists, paragraphs, code and tables. Keep selection intact during chat refreshes and window resizing.",
+  "size": 7214194,
+  "sparkle_signature": "B+bvFU3xnrgB4t7SMyy0T/uG5Jj292a2aAoKe5dCngFvcBJAAyHul0wKwmsXTFKCCls6g7s/nitkQnZOZxltAg==",
+  "version": "0.2.11"
+}
