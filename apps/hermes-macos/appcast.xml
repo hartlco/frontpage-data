@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>Klaudimero for Mac</title>
+    <title>Klaudimero</title>
     <link>https://builds.hartl.co/apps/hermes-macos/appcast.xml</link>
     <item>
       <title>Version 0.2.10</title>
@@ -10,7 +10,7 @@
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <description>&lt;p&gt;A native Mac Your Bots grid with main-chat previews, standard error alerts, and a focused text editor: Return sends, Shift-Return or Control-Return inserts a newline. Generated screenshot/image deliveries display as tappable previews in live and saved chats. Universal Developer ID release notarized by Apple, with a signed Sparkle update.&lt;/p&gt;</description>
       <pubDate>Sat, 24 Oct 2026 11:16:39 +0000</pubDate>
-      <enclosure url="https://builds.hartl.co/apps/hermes-macos/builds/0.2.10-35/download/Klaudimero-0.2.10-35.dmg" length="7176620" type="application/octet-stream" sparkle:edDSASignature="OrqJitTSfOfShAk5jJWYZI9yWHYhOcwsvL6JVUlRFf6ML2xtTZZRYQEpJ4opkKPnvlwZM3RPl7mWpY6ZPMYSAw=="></enclosure>
+      <enclosure url="https://builds.hartl.co/apps/hermes-macos/builds/0.2.10-35/download/Klaudimero-0.2.10-35.dmg" length="7176620" type="application/octet-stream" sparkle:edSignature="OrqJitTSfOfShAk5jJWYZI9yWHYhOcwsvL6JVUlRFf6ML2xtTZZRYQEpJ4opkKPnvlwZM3RPl7mWpY6ZPMYSAw=="></enclosure>
     </item>
     <item>
       <title>Version 0.2.9</title>
@@ -19,7 +19,7 @@
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <description>&lt;p&gt;Fixes a launch crash caused by the Sparkle framework search path in the native Mac app. The actual signed app and packaged DMG now resolve the embedded updater correctly on Apple Silicon and Intel. Signed and notarized. If 0.2.8 cannot open, install this replacement manually once; future updates can use Sparkle.&lt;/p&gt;</description>
       <pubDate>Sat, 24 Oct 2026 09:01:24 +0000</pubDate>
-      <enclosure url="https://builds.hartl.co/apps/hermes-macos/builds/0.2.9-34/download/Klaudimero-0.2.9-34.dmg" length="7092657" type="application/octet-stream" sparkle:edDSASignature="R0VAWkE6LOoH1Qk5HtcO+xAm91Wnizw9rVt75MNIbMf6j6Rwn4daJQ9a8VHB68BEymfiZcWun6gQ4ud9+y0ADA=="></enclosure>
+      <enclosure url="https://builds.hartl.co/apps/hermes-macos/builds/0.2.9-34/download/Klaudimero-0.2.9-34.dmg" length="7092657" type="application/octet-stream" sparkle:edSignature="R0VAWkE6LOoH1Qk5HtcO+xAm91Wnizw9rVt75MNIbMf6j6Rwn4daJQ9a8VHB68BEymfiZcWun6gQ4ud9+y0ADA=="></enclosure>
     </item>
     <item>
       <title>Version 0.2.8</title>
@@ -28,7 +28,7 @@
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <description>&lt;p&gt;Adds Sparkle automatic software updates to the native Mac app, Check for Updates in the application menu, and automatic-check/download controls in General settings. Updates use signed archives, sandboxed installation and notarized Developer ID releases. Install this updater-enabled build once manually; future Mac updates can install through Sparkle.&lt;/p&gt;</description>
       <pubDate>Sat, 24 Oct 2026 08:29:16 +0000</pubDate>
-      <enclosure url="https://builds.hartl.co/apps/hermes-macos/builds/0.2.8-33/download/Klaudimero-0.2.8-33.dmg" length="7092676" type="application/octet-stream" sparkle:edDSASignature="poP911qQSQTC1WAgt3TgTntcAcgahAEEAKYTAIcJSv9b/EKFxPxtmR6YsJnAX+t91D1VPyz0TP7GT2cNjjD6Aw=="></enclosure>
+      <enclosure url="https://builds.hartl.co/apps/hermes-macos/builds/0.2.8-33/download/Klaudimero-0.2.8-33.dmg" length="7092676" type="application/octet-stream" sparkle:edSignature="poP911qQSQTC1WAgt3TgTntcAcgahAEEAKYTAIcJSv9b/EKFxPxtmR6YsJnAX+t91D1VPyz0TP7GT2cNjjD6Aw=="></enclosure>
     </item>
     <item>
       <title>Version 0.2.7</title>
