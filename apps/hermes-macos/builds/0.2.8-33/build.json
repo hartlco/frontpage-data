@@ -1,0 +1,10 @@
+{
+  "build_number": "33",
+  "date": "2026-10-24T08:29:16Z",
+  "file": "Klaudimero-0.2.8-33.dmg",
+  "min_os_version": "26.0",
+  "notes": "Adds Sparkle automatic software updates to the native Mac app, Check for Updates in the application menu, and automatic-check/download controls in General settings. Updates use signed archives, sandboxed installation and notarized Developer ID releases. Install this updater-enabled build once manually; future Mac updates can install through Sparkle.",
+  "size": 7092676,
+  "sparkle_signature": "poP911qQSQTC1WAgt3TgTntcAcgahAEEAKYTAIcJSv9b/EKFxPxtmR6YsJnAX+t91D1VPyz0TP7GT2cNjjD6Aw==",
+  "version": "0.2.8"
+}
