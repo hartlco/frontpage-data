@@ -1,0 +1,9 @@
+{
+  "build_number": "28",
+  "date": "2026-10-24T03:29:05Z",
+  "file": "Klaudimero.ipa",
+  "min_os_version": "26.0",
+  "notes": "Klaudimero is now a Hermes delivery channel for jobs and proactive messages. Use Settings → Klaudimero plugin → Update plugin to install reviewed plugin 0.4.0 for all bots, then restart the Hermes dashboard and gateways. Results appear in the bot’s main chat, with ordered retries while busy and existing encrypted notifications. Icons, history and drafts are retained. Existing relay 0.3.0 needs no change.",
+  "size": 6984498,
+  "version": "0.2.3"
+}
