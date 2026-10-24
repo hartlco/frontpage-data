@@ -1,0 +1,10 @@
+{
+  "build_number": "35",
+  "date": "2026-10-24T11:16:39Z",
+  "file": "Klaudimero-0.2.10-35.dmg",
+  "min_os_version": "26.0",
+  "notes": "A native Mac Your Bots grid with main-chat previews, standard error alerts, and a focused text editor: Return sends, Shift-Return or Control-Return inserts a newline. Generated screenshot/image deliveries display as tappable previews in live and saved chats. Universal Developer ID release notarized by Apple, with a signed Sparkle update.",
+  "size": 7176620,
+  "sparkle_signature": "OrqJitTSfOfShAk5jJWYZI9yWHYhOcwsvL6JVUlRFf6ML2xtTZZRYQEpJ4opkKPnvlwZM3RPl7mWpY6ZPMYSAw==",
+  "version": "0.2.10"
+}
