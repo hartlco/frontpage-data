@@ -1,0 +1,9 @@
+{
+  "build_number": "29",
+  "date": "2026-10-24T04:03:24Z",
+  "file": "Klaudimero-0.2.4-29.dmg",
+  "min_os_version": "26.0",
+  "notes": "Fix plugin updates refused by Hermes dependency approval. Plugin0.4.1 uses explicit consent and verifies installed commits; update errors remain visible and installed/loaded versions are separate. Existing0.3/0.4 plugins need the one-time exact command shown in Settings, then restart the dashboard and use Update for named bots. Relay0.3.0 is unchanged. Universal native Mac, Developer ID signed and notarized.",
+  "size": 5956999,
+  "version": "0.2.4"
+}

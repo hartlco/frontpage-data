@@ -4,6 +4,15 @@
     <title>Klaudimero for Mac</title>
     <link>https://builds.hartl.co/apps/hermes-macos/appcast.xml</link>
     <item>
+      <title>Version 0.2.4</title>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Fix plugin updates refused by Hermes dependency approval. Plugin0.4.1 uses explicit consent and verifies installed commits; update errors remain visible and installed/loaded versions are separate. Existing0.3/0.4 plugins need the one-time exact command shown in Settings, then restart the dashboard and use Update for named bots. Relay0.3.0 is unchanged. Universal native Mac, Developer ID signed and notarized.&lt;/p&gt;</description>
+      <pubDate>Sat, 24 Oct 2026 04:03:24 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/hermes-macos/builds/0.2.4-29/download/Klaudimero-0.2.4-29.dmg" length="5956999" type="application/octet-stream"></enclosure>
+    </item>
+    <item>
       <title>Version 0.2.3</title>
       <sparkle:version>28</sparkle:version>
       <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
