@@ -1,0 +1,9 @@
+{
+  "build_number": "30",
+  "date": "2026-10-24T04:47:33Z",
+  "file": "Klaudimero.ipa",
+  "min_os_version": "26.0",
+  "notes": "Fix composer text reappearing after Hermes accepts a message but loses its acknowledgement; preserve newer drafts and restore rejected text/photos safely. Add confirmed gateway and verified systemd dashboard restart controls in plugin settings. Plugin 0.4.2 pinned; existing 0.4.1 needs one host-side dashboard restart after updating to expose the new control.",
+  "size": 7046311,
+  "version": "0.2.5"
+}
