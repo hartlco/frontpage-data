@@ -4,6 +4,15 @@
     <title>Klaudimero for Mac</title>
     <link>https://builds.hartl.co/apps/hermes-macos/appcast.xml</link>
     <item>
+      <title>Version 0.2.5</title>
+      <sparkle:version>30</sparkle:version>
+      <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Add confirmed gateway and verified systemd dashboard restart controls after plugin setup. Fix composer draft reappearing after an accepted prompt loses its acknowledgement; preserve newer drafts and restore only explicit refusals. Plugin0.4.2 pinned; existing0.4.1 needs one host-side dashboard restart to expose new restart controls. Universal native Mac, Developer ID signed and notarized.&lt;/p&gt;</description>
+      <pubDate>Sat, 24 Oct 2026 04:48:05 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/hermes-macos/builds/0.2.5-30/download/Klaudimero-0.2.5-30.dmg" length="6042776" type="application/octet-stream"></enclosure>
+    </item>
+    <item>
       <title>Version 0.2.4</title>
       <sparkle:version>29</sparkle:version>
       <sparkle:shortVersionString>0.2.4</sparkle:shortVersionString>

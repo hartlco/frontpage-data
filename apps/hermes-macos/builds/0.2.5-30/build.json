@@ -1,0 +1,9 @@
+{
+  "build_number": "30",
+  "date": "2026-10-24T04:48:05Z",
+  "file": "Klaudimero-0.2.5-30.dmg",
+  "min_os_version": "26.0",
+  "notes": "Add confirmed gateway and verified systemd dashboard restart controls after plugin setup. Fix composer draft reappearing after an accepted prompt loses its acknowledgement; preserve newer drafts and restore only explicit refusals. Plugin0.4.2 pinned; existing0.4.1 needs one host-side dashboard restart to expose new restart controls. Universal native Mac, Developer ID signed and notarized.",
+  "size": 6042776,
+  "version": "0.2.5"
+}
