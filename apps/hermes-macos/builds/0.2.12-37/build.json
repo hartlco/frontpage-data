@@ -1,0 +1,10 @@
+{
+  "build_number": "37",
+  "date": "2026-10-24T14:08:24Z",
+  "file": "Klaudimero-0.2.12-37.dmg",
+  "min_os_version": "26.0",
+  "notes": "Encrypted reply previews and account-scoped Mac activity with companion 0.6.0. Phone pushes pause while Klaudimero is active on Mac, then resume without replaying suppressed alerts. Native activation and last-window lifecycle handling; detect old loaded plugin implementations even if their version label appears current. Update the plugin for all bots and restart the Hermes dashboard and gateway. Signed, notarized and verified for Sparkle updates.",
+  "size": 7247714,
+  "sparkle_signature": "SyJ+pCbGvUP7LfeFtKNNPy6+dzFk8kAk8jpOIyEyxVhHLg++/NEQPLrtyA2tXHvp8WqvsqWg97mFO33E7vSSDA==",
+  "version": "0.2.12"
+}
