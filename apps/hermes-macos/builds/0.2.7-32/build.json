@@ -1,0 +1,9 @@
+{
+  "build_number": "32",
+  "date": "2026-10-24T05:55:48Z",
+  "file": "Klaudimero-0.2.7-32.dmg",
+  "min_os_version": "26.0",
+  "notes": "Reconcile plugin0.5.0 proactivity delivery chats with encrypted notification previews. Update all bot installations, including older named bots when the default is current. Restart dashboard and relevant gateways after updating; relay and certificates unchanged. Native universal Mac, Developer ID signed and notarized.",
+  "size": 6092514,
+  "version": "0.2.7"
+}
