@@ -1,9 +1,0 @@
-{
-  "build_number": "12",
-  "date": "2026-10-21T09:27:50Z",
-  "file": "Klaudimero-0.1.9-12.dmg",
-  "min_os_version": "26.0",
-  "notes": "Fix duplicate replies and flickering reasoning, tighten composer spacing, and dismiss the keyboard on chat taps and scrolling while keeping replies visible.",
-  "size": 4562668,
-  "version": "0.1.9"
-}

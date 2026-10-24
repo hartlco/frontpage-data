@@ -1,9 +1,0 @@
-{
-  "build_number": "17",
-  "date": "2026-10-22T12:28:56Z",
-  "file": "Klaudimero.ipa",
-  "min_os_version": "26.0",
-  "notes": "Fix chat deletion using Hermes mutation snapshots and exact retry metadata. Delete pinned chats directly, refresh conflicts safely, and clear cached chat history after deletion.",
-  "size": 6335006,
-  "version": "0.1.14"
-}

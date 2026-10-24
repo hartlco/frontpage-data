@@ -1,9 +1,0 @@
-{
-  "build_number": "3",
-  "date": "2026-10-17T13:45:55Z",
-  "file": "Prosit.ipa",
-  "min_os_version": "18.0",
-  "notes": "Remember sign-in securely in the device Keychain. Reopen with Face ID, Touch ID, or your device passcode. Sign out or disable remembering to remove saved credentials. Existing 12-hour server expiry applies. Native app source: 211c78564a2d98bacfa1928ffa4c6fee137daa0d.",
-  "size": 452860,
-  "version": "0.3.0"
-}

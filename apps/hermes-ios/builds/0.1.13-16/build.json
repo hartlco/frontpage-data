@@ -1,9 +1,0 @@
-{
-  "build_number": "16",
-  "date": "2026-10-22T04:35:26Z",
-  "file": "Klaudimero.ipa",
-  "min_os_version": "26.0",
-  "notes": "One collapsed Reasoning \u0026 tools expander per turn combines reasoning, tool calls, full results and live status. Removes the separate tool rows and Tool activity card. Repeated calls stay distinct, live and saved results appear once, and earlier calls stay with their original turn. Replies and approval prompts remain visible outside the expander.",
-  "size": 6329398,
-  "version": "0.1.13"
-}

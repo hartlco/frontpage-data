@@ -1,9 +1,0 @@
-{
-  "build_number": "20",
-  "date": "2026-10-23T04:56:47Z",
-  "file": "Klaudimero.ipa",
-  "min_os_version": "26.0",
-  "notes": "Compact expandable agent handoffs with sender and recipient icons. Archive and restore chats with server-backed history. Four icon tabs and a separate native iOS 27 compose action, with compose removed from iPhone navigation headers.",
-  "size": 6441150,
-  "version": "0.1.17"
-}

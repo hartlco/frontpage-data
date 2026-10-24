@@ -1,9 +1,0 @@
-{
-  "build_number": "3",
-  "date": "2026-10-20T20:24:04Z",
-  "file": "Klaudimero.ipa",
-  "min_os_version": "26.0",
-  "notes": "Fix chat deletion and renaming with current Hermes backends. Update session-edit compatibility checks and prevent duplicate edits after connection failures.",
-  "size": 5995588,
-  "version": "0.1.2"
-}

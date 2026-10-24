@@ -1,9 +1,0 @@
-{
-  "build_number": "2",
-  "date": "2026-10-19T06:26:37Z",
-  "file": "MacMCP-1.1.0-2.dmg",
-  "min_os_version": "14.0",
-  "notes": "Things MCP is now MacMCP. Adds read-only Apple Mail and Calendar integrations with explicit source selection and per-token app permissions. Existing Things tokens, settings, and endpoints are preserved. Mail and Calendar start disabled. Universal, Developer ID signed and notarized.",
-  "size": 1496572,
-  "version": "1.1.0"
-}

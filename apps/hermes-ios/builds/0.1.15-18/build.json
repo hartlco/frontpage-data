@@ -1,9 +1,0 @@
-{
-  "build_number": "18",
-  "date": "2026-10-22T19:18:32Z",
-  "file": "Klaudimero.ipa",
-  "min_os_version": "26.0",
-  "notes": "Support Hermes secure-input requests with masked token entry, native Paste, Submit and Skip. Keep values outside chat history, clear them on navigation/backgrounding, and reject expired or unrelated requests. HTTP connections are identified as unencrypted.",
-  "size": 6358971,
-  "version": "0.1.15"
-}
