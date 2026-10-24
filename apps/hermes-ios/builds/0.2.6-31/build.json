@@ -1,0 +1,9 @@
+{
+  "build_number": "31",
+  "date": "2026-10-24T05:18:15Z",
+  "file": "Klaudimero.ipa",
+  "min_os_version": "26.0",
+  "notes": "Show actual signed and encrypted reply previews instead of generic reply-ready event text. Adds verified foreground presentation and metadata-only extension decryption status. Update Klaudimero plugin to0.4.3 and restart dashboard/gateways to include preview content. Existing relay, notification keys and Apple credentials remain unchanged.",
+  "size": 7064477,
+  "version": "0.2.6"
+}
