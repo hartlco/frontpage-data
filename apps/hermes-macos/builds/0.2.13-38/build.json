@@ -1,0 +1,10 @@
+{
+  "build_number": "38",
+  "date": "2026-10-24T14:19:12Z",
+  "file": "Klaudimero-0.2.13-38.dmg",
+  "min_os_version": "26.0",
+  "notes": "Fix assistant reply text cut off at the bottom on Mac. Match TextKit 2 measurement to the native selectable reply, including paragraph, list, table and image layout. Preserve complete reply selection and copying during window resizing and streamed updates. Developer ID signed, notarized and verified for Sparkle updates.",
+  "size": 7247899,
+  "sparkle_signature": "yx4/wYQ+jotvVxbWDBIxkB26qe5xlYdW2I7VMjExi+qm6yO1V6h7dHko0g0oqIwbV83scQFGugRrLpxLcnYNDw==",
+  "version": "0.2.13"
+}

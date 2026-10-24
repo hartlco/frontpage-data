@@ -4,6 +4,15 @@
     <title>Klaudimero for Mac</title>
     <link>https://builds.hartl.co/apps/hermes-macos/appcast.xml</link>
     <item>
+      <title>Version 0.2.13</title>
+      <sparkle:version>38</sparkle:version>
+      <sparkle:shortVersionString>0.2.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Fix assistant reply text cut off at the bottom on Mac. Match TextKit 2 measurement to the native selectable reply, including paragraph, list, table and image layout. Preserve complete reply selection and copying during window resizing and streamed updates. Developer ID signed, notarized and verified for Sparkle updates.&lt;/p&gt;</description>
+      <pubDate>Sat, 24 Oct 2026 14:19:12 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/hermes-macos/builds/0.2.13-38/download/Klaudimero-0.2.13-38.dmg" length="7247899" type="application/octet-stream" sparkle:edSignature="yx4/wYQ+jotvVxbWDBIxkB26qe5xlYdW2I7VMjExi+qm6yO1V6h7dHko0g0oqIwbV83scQFGugRrLpxLcnYNDw=="></enclosure>
+    </item>
+    <item>
       <title>Version 0.2.12</title>
       <sparkle:version>37</sparkle:version>
       <sparkle:shortVersionString>0.2.12</sparkle:shortVersionString>
