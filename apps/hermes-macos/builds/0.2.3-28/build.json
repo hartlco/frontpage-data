@@ -1,0 +1,9 @@
+{
+  "build_number": "28",
+  "date": "2026-10-24T03:29:27Z",
+  "file": "Klaudimero-0.2.3-28.dmg",
+  "min_os_version": "26.0",
+  "notes": "Klaudimero is now a Hermes delivery channel for jobs and proactive bot messages. Update plugin in Settings to install reviewed plugin0.4.0 for all bots, then restart Hermes dashboard/gateways. Results appear in each bot’s main chat, with busy-chat retries and existing encrypted notifications. Relay0.3.0 stays compatible. Universal native Mac app, Developer ID signed and notarized by Apple.",
+  "size": 5888346,
+  "version": "0.2.3"
+}
