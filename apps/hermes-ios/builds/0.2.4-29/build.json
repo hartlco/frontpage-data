@@ -1,0 +1,9 @@
+{
+  "build_number": "29",
+  "date": "2026-10-24T04:02:45Z",
+  "file": "Klaudimero.ipa",
+  "min_os_version": "26.0",
+  "notes": "Fix plugin updates refused by Hermes dependency approval. Plugin 0.4.1 uses explicit consent and verifies installed commits. Errors remain visible; installed and loaded versions are separate. Older 0.3/0.4 plugins need the one-time exact command shown in Settings, then restart the dashboard and use Update for named bots. Icons, drafts and chats are retained. Existing relay 0.3.0 needs no change.",
+  "size": 7012421,
+  "version": "0.2.4"
+}
