@@ -1,9 +1,0 @@
-{
-  "build_number": "8",
-  "date": "2026-10-21T07:35:55Z",
-  "file": "Klaudimero-0.1.7-8.dmg",
-  "min_os_version": "26.0",
-  "notes": "Fix photo sending compatibility with Hermes. Preview photos, PDFs, and text in the composer and chat, including saved conversations.",
-  "size": 4436343,
-  "version": "0.1.7"
-}

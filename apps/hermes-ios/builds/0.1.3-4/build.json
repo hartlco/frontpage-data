@@ -1,9 +1,0 @@
-{
-  "build_number": "4",
-  "date": "2026-10-20T21:15:09Z",
-  "file": "Klaudimero.ipa",
-  "min_os_version": "26.0",
-  "notes": "Fix 404 errors when opening or deleting empty chats before their first message. Clean up empty-chat connections and distinguish a missing chat from saved history the Hermes runtime refuses to edit. Older history may still require backend migration.",
-  "size": 6000117,
-  "version": "0.1.3"
-}

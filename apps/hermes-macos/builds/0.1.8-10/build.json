@@ -1,9 +1,0 @@
-{
-  "build_number": "10",
-  "date": "2026-10-21T08:40:02Z",
-  "file": "Klaudimero-0.1.8-10.dmg",
-  "min_os_version": "26.0",
-  "notes": "Improve chat updates during tools and handoffs, add chats grouped by bot and latest-message previews, and fix photo sending.",
-  "size": 4548530,
-  "version": "0.1.8"
-}

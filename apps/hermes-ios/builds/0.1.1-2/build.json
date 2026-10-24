@@ -1,9 +1,0 @@
-{
-  "build_number": "2",
-  "date": "2026-10-20T19:12:35Z",
-  "file": "Klaudimero.ipa",
-  "min_os_version": "26.0",
-  "notes": "Klaudimero name and original logo restored. Sign in to your configurable Hermes dashboard with username and password or a dashboard access token. Agent profiles are discovered from the server and remain separate from saved connections. Updated streaming chat, session resume, stop, and one-time approvals.",
-  "size": 5987078,
-  "version": "0.1.1"
-}

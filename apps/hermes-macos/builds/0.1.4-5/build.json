@@ -1,9 +1,0 @@
-{
-  "build_number": "5",
-  "date": "2026-10-20T21:43:34Z",
-  "file": "Klaudimero-0.1.4-5.dmg",
-  "min_os_version": "26.0",
-  "notes": "Choose models per conversation using the Hermes server catalog and confirmation prompts. Leading-aligned tool output, inline thinking, and Stop in the composer. Existing old-chat editing still awaits the Hermes backend fix.",
-  "size": 3944938,
-  "version": "0.1.4"
-}

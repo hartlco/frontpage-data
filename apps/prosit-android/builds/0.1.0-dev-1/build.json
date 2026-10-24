@@ -1,9 +1,0 @@
-{
-  "build_number": "1",
-  "date": "2026-10-17T10:16:50Z",
-  "file": "app-debug.apk",
-  "min_os_version": "9.0",
-  "notes": "First Android development build with Jetpack Compose and Material 3. Adaptive Updates, Friends, Circles and Share navigation, native settings, and vault locking on background. Android 9 or later. Signed with a development key for tester/UI evaluation. Passkey sign-in needs the Android-capable server and an association for this signing certificate; production signing and server rollout are still pending. Physical-device passkey/provider compatibility remains to be verified.",
-  "size": 35037912,
-  "version": "0.1.0-dev"
-}
