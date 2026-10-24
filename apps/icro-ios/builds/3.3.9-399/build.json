@@ -1,0 +1,9 @@
+{
+  "build_number": "399",
+  "date": "2026-10-01T20:26:12Z",
+  "file": "Icro.ipa",
+  "min_os_version": "27.0",
+  "notes": "Removes the ineffective bolder-font setting, softens dark backgrounds, and tightens icon spacing without overlap.",
+  "size": 7571430,
+  "version": "3.3.9"
+}

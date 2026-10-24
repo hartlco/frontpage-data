@@ -1,0 +1,9 @@
+{
+  "build_number": "386",
+  "date": "2026-09-27T06:43:45Z",
+  "file": "Icro.ipa",
+  "min_os_version": "27.0",
+  "notes": "Fix Micro.blog timeline, mentions, and bookmarks; refresh sign-in for iOS 27.",
+  "size": 3175662,
+  "version": "3.1.1"
+}

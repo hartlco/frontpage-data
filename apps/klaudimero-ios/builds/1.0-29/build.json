@@ -1,0 +1,9 @@
+{
+  "build_number": "29",
+  "date": "2026-09-15T16:08:04Z",
+  "file": "KlaudimeroApp.ipa",
+  "min_os_version": "26.0",
+  "notes": "Read-only host Calendar and Apple Mail integration. Today includes selected Calendar events and a Mail overview with unread counts, freshness and permission states. Private dashboard data is scoped and isolated from generated code. Improved offline cache expiry and host source diagnostics.",
+  "size": 17888309,
+  "version": "1.0"
+}

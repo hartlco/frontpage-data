@@ -1,0 +1,9 @@
+{
+  "build_number": "49",
+  "date": "2026-10-01T07:49:47Z",
+  "file": "KlaudimeroApp.ipa",
+  "min_os_version": "26.0",
+  "notes": "Local SQLite memory with stable entries, revision-checked corrections, source evidence, safe migration, review and backup controls.",
+  "size": 7871339,
+  "version": "1.0"
+}

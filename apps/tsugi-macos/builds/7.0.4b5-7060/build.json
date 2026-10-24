@@ -1,0 +1,9 @@
+{
+  "build_number": "7060",
+  "date": "2026-09-05T13:32:18Z",
+  "file": "Tsugi-7.0.4b5-7060.dmg",
+  "min_os_version": "15.0",
+  "notes": "Improves timeline scrolling with cached title formatting and cell layouts, in-place row updates, and background thumbnail decoding. News uses smaller decoded thumbnails; Blog skips thumbnail loading. Universal app, Developer ID signed, notarized, and stapled.",
+  "size": 12716567,
+  "version": "7.0.4b5"
+}

@@ -1,0 +1,9 @@
+{
+  "build_number": "59",
+  "date": "2026-10-03T08:13:31Z",
+  "file": "KlaudimeroApp.ipa",
+  "min_os_version": "26.0",
+  "notes": "Browser now searches Google for words and phrases, including Unicode and punctuation, with destination restrictions and query privacy preserved. The connection selector clearly distinguishes Managed Chrome saved logins from everyday Chrome and explains why personal reuse is currently unavailable. Desktop interaction pauses visible host browser control. Shared iOS/macOS Browser improvements for issue #63.",
+  "size": 8838299,
+  "version": "1.0"
+}

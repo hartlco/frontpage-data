@@ -1,0 +1,9 @@
+{
+  "build_number": "1",
+  "date": "2026-09-07T06:19:47Z",
+  "file": "CalSync-1.0-1.dmg",
+  "min_os_version": "14.0",
+  "notes": "First release of CalSync for macOS 14 and newer, supporting Apple Silicon and Intel Macs.\n\n- Mirror multiple iCloud calendars to selected Google calendars through the macOS Calendar accounts.\n- Sync automatically every hour, or use Sync now from the menu bar.\n- Copy full event details or show only Busy, without copying attendees or alerts.\n- Keep updates, recurring exceptions, and confirmed deletions in sync within a rolling window.\n- Optional launch at login, per-mapping pause, and recent sync activity.\n\nSetup: install CalSync in Applications, grant full Calendar access, and select your calendar pairs. Sync runs while the app is open; provider updates depend on macOS Calendar refresh and network availability.\n",
+  "size": 1327051,
+  "version": "1.0"
+}

@@ -1,0 +1,9 @@
+{
+  "build_number": "7213",
+  "date": "2026-09-20T06:39:26Z",
+  "file": "Tsugi.ipa",
+  "min_os_version": "17.0",
+  "notes": "Opening linkding bookmarks now preserves their read status. Use the explicit Mark as Read or Mark as Unread swipe and context-menu actions to change it. Bookmark lists now display preview thumbnails supplied by linkding, using the existing article-list layout and image cache.",
+  "size": 19990843,
+  "version": "7.1.4"
+}

@@ -1,0 +1,9 @@
+{
+  "build_number": "3",
+  "date": "2026-09-09T06:12:56Z",
+  "file": "Flush.ipa",
+  "min_os_version": "18.0",
+  "notes": "Fix the check-in screen closing when opening or returning from Camera, Add a food, or Add a product. Child screens now return to the same draft, preserving notes, symptoms, selections, and photos.",
+  "size": 714873,
+  "version": "1.0.2"
+}

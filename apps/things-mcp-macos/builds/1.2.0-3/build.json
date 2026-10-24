@@ -1,0 +1,9 @@
+{
+  "build_number": "3",
+  "date": "2026-10-19T06:51:43Z",
+  "file": "MacMCP-1.2.0-3.dmg",
+  "min_os_version": "14.0",
+  "notes": "Calendar now supports creating, editing, and deleting personal events in selected writable calendars. New read \u0026 write tokens grant Calendar edits; existing tokens keep their permissions. Updates and deletion require the current event revision and affect one recurring occurrence at a time. Events with attendees or an organizer remain read-only. Universal, Developer ID signed and notarized.",
+  "size": 1546674,
+  "version": "1.2.0"
+}

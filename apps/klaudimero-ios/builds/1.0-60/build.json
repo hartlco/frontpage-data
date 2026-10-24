@@ -1,0 +1,9 @@
+{
+  "build_number": "60",
+  "date": "2026-10-03T09:10:54Z",
+  "file": "KlaudimeroApp.ipa",
+  "min_os_version": "26.0",
+  "notes": "Use my Chrome: explicitly share a tab from your existing Chrome session with the local extension. Reuses signed-in websites, preserves takeover controls, and leaves Chrome open when ending a session. Requires host extension setup.",
+  "size": 8840884,
+  "version": "1.0"
+}

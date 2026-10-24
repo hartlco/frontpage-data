@@ -1,0 +1,9 @@
+{
+  "build_number": "393",
+  "date": "2026-09-27T12:21:35Z",
+  "file": "Icro.ipa",
+  "min_os_version": "27.0",
+  "notes": "Shimmering placeholders now appear during initial feed, profile, and Following loads. Post actions sit below content, clear of avatars.",
+  "size": 3124122,
+  "version": "3.3.3"
+}

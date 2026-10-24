@@ -1,0 +1,9 @@
+{
+  "build_number": "67",
+  "date": "2026-10-08T06:31:11Z",
+  "file": "KlaudimeroApp.ipa",
+  "min_os_version": "26.0",
+  "notes": "Issue #71: add an isolated Pi Durable recovery pilot for developers. Production Pi and Codex selections stay unchanged.",
+  "size": 8973057,
+  "version": "1.0"
+}

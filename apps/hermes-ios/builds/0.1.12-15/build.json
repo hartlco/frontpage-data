@@ -1,0 +1,9 @@
+{
+  "build_number": "15",
+  "date": "2026-10-22T04:14:47Z",
+  "file": "Klaudimero.ipa",
+  "min_os_version": "26.0",
+  "notes": "Cleaner conversations: no repeated bot names; one separate, manually expandable Reasoning section per turn, collapsed by default. Bots always uses a list without the recent strip or layout toggle. Chats always includes all bots, grouped by bot, with no scope filter. Fixes the preview Bots title.",
+  "size": 6319091,
+  "version": "0.1.12"
+}

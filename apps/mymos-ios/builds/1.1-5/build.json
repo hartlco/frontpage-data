@@ -1,0 +1,9 @@
+{
+  "build_number": "5",
+  "date": "2026-09-11T09:47:33Z",
+  "file": "mymos.ipa",
+  "min_os_version": "27.0",
+  "notes": "Refreshed journal and editor for iOS 27 with a teal palette, calmer typography, and adaptive light and dark cards. Save and Post stay visible while scrolling and typing. Edit dates and times directly with Now and Yesterday shortcuts, add tags inline, find locations as you type, or use your current location in one tap. Failed saves preserve your edits and support retry. Improved large-text layouts and entry updates from search and historical views.",
+  "size": 5390659,
+  "version": "1.1"
+}

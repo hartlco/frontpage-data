@@ -1,0 +1,9 @@
+{
+  "build_number": "11",
+  "date": "2026-10-21T09:08:41Z",
+  "file": "Klaudimero.ipa",
+  "min_os_version": "26.0",
+  "notes": "Fix duplicate replies and flickering reasoning, tighten composer spacing, and dismiss the keyboard when tapping or scrolling the chat.",
+  "size": 6308132,
+  "version": "0.1.9"
+}

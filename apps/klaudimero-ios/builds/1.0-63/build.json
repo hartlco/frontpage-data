@@ -1,0 +1,9 @@
+{
+  "build_number": "63",
+  "date": "2026-10-05T11:31:59Z",
+  "file": "KlaudimeroApp.ipa",
+  "min_os_version": "26.0",
+  "notes": "Suggested work is easier to manage. Remove proposals directly beside Review on Today, in All suggested work, or in their source chat, without a persistent Undo prompt. Optional swipe removal requires tapping Remove. Suggestion settings are in one toolbar menu; choose Show hidden suggestions to restore a removed proposal. Review, acceptance, existing-work links, and safe saved-action retries remain available.",
+  "size": 8838943,
+  "version": "1.0"
+}

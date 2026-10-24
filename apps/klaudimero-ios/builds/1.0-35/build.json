@@ -1,0 +1,9 @@
+{
+  "build_number": "35",
+  "date": "2026-09-19T08:35:06Z",
+  "file": "KlaudimeroApp.ipa",
+  "min_os_version": "26.0",
+  "notes": "Reworked Voice Chat startup with a dedicated Home Screen and Lock Screen widget. Shared foreground launch flow for widgets and shortcuts, visible permission and connection errors, retry controls, and safe cancellation of pending microphone startup.",
+  "size": 18134849,
+  "version": "1.0"
+}

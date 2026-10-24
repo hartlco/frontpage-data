@@ -1,0 +1,9 @@
+{
+  "build_number": "1",
+  "date": "2026-10-20T18:38:36Z",
+  "file": "Hermes-0.1.0-1.dmg",
+  "min_os_version": "26.0",
+  "notes": "First native Hermes client for Apple Silicon and Intel Macs. Klaudimero-inspired Today and chat views, configurable agent profiles, streaming Markdown replies, tool activity, approvals, and Keychain credentials. Requires the Hermes API server. Internal Apple Development signing with hardened runtime; not notarized.",
+  "size": 2898983,
+  "version": "0.1.0"
+}

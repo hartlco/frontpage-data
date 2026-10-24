@@ -1,0 +1,9 @@
+{
+  "build_number": "18",
+  "date": "2026-09-07T05:34:38Z",
+  "file": "KlaudimeroApp.ipa",
+  "min_os_version": "26.0",
+  "notes": "Adds Obsidian vault browsing, search, daily-note navigation and revision-safe editing. Includes independent opt-in daily-note digestion, source-grounded memory, saved run status and backup recovery. Configure the existing service-host vault in Settings → Obsidian.",
+  "size": 17646762,
+  "version": "1.0"
+}

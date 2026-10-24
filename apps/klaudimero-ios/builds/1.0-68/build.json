@@ -1,0 +1,9 @@
+{
+  "build_number": "68",
+  "date": "2026-10-08T07:46:30Z",
+  "file": "KlaudimeroApp.ipa",
+  "min_os_version": "26.0",
+  "notes": "Issue #71: Pi Durable experimental manual goals with exact model and reasoning selection, public HTTPS research, bounded text/image attachments, validated report artifacts, and restart recovery. Enabled for testing on the host; Pi remains the ordinary default.",
+  "size": 8975413,
+  "version": "1.0"
+}

@@ -1,0 +1,9 @@
+{
+  "build_number": "3",
+  "date": "2026-10-17T14:21:33Z",
+  "file": "app-release.apk",
+  "min_os_version": "API28",
+  "notes": "Signed native Kotlin/Compose release. Requires Prosit server v0.4.3 for Android passkey sign-in and Frontpage 0.1.7 for correct APK downloads. Installs as the release app, separately from the earlier development preview. Uses native Credential Manager, encrypted vaults, feeds, friends, circles and reviewed sharing; no web wrapper.\n\nServer deployment is required before native passkey sign-in works. The signing certificate was checked against the target server image; live provider sign-in remains pending.",
+  "size": 3858385,
+  "version": "0.2.1"
+}

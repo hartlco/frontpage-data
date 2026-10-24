@@ -1,0 +1,9 @@
+{
+  "build_number": "58",
+  "date": "2026-10-03T04:32:56Z",
+  "file": "Klaudimero-1.0-58.dmg",
+  "min_os_version": "26.0",
+  "notes": "Manage connector permissions directly in Settings → Memory → Connector context → Source permissions. Choose conversation context and reviewed learning separately, with clear explanations, Save confirmation, safe conflict reload and retry. Turning context off also turns learning off. Existing permissions and source setup are preserved.",
+  "size": 10523592,
+  "version": "1.0"
+}

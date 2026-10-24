@@ -1,0 +1,9 @@
+{
+  "build_number": "22",
+  "date": "2026-09-14T12:59:21Z",
+  "file": "KlaudimeroApp.ipa",
+  "min_os_version": "26.0",
+  "notes": "Memory now captures sourced decisions and learnings from goal results. Optional bounded knowledge review proposes changes with evidence, source freshness, accept/reject and rollback. Fixed check history visibility and preserved existing Obsidian integration.",
+  "size": 17734470,
+  "version": "1.0"
+}

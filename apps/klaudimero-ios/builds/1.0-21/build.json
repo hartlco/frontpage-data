@@ -1,0 +1,8 @@
+{
+  "build_number": "21",
+  "date": "2026-09-07T08:26:51Z",
+  "file": "KlaudimeroApp.ipa",
+  "notes": "Fixed Obsidian note links after correcting the connected vault name. The app now follows the current vault name instead of retaining an outdated default. Explicit device vault overrides can be reset with Use connected vault.",
+  "size": 17709972,
+  "version": "1.0"
+}

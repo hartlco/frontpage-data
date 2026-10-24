@@ -1,0 +1,9 @@
+{
+  "build_number": "7210",
+  "date": "2026-09-05T18:20:56Z",
+  "file": "Tsugi.ipa",
+  "min_os_version": "17.0",
+  "notes": "Merges the latest NetNewsWire sync, sharing, parsing, and navigation improvements. Uses the new manual iOS timeline layout while preserving Tsugi's News, Social, and Blog styles, thumbnails, and read dimming. Includes recent scrolling and Dynamic Type fixes.",
+  "size": 19850225,
+  "version": "7.1.4"
+}

@@ -1,0 +1,8 @@
+{
+  "build_number": "20",
+  "date": "2026-09-07T07:10:45Z",
+  "file": "KlaudimeroApp.ipa",
+  "notes": "A simpler daily note: just write, with automatic saving and background Wiki updates. Fixed editing and automatic retry after reconnecting. Empty days are ready to write without a separate create step.",
+  "size": 17708533,
+  "version": "1.0"
+}

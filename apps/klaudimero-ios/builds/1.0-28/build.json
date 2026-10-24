@@ -1,0 +1,9 @@
+{
+  "build_number": "28",
+  "date": "2026-09-15T09:50:43Z",
+  "file": "KlaudimeroApp.ipa",
+  "min_os_version": "26.0",
+  "notes": "Reopened goals now show Mark goal done when the linked todo is already completed, missing, or unavailable. Clear explanations distinguish goal-only completion from completing an open todo. Unresolved task updates still use Check completion.",
+  "size": 17845725,
+  "version": "1.0"
+}

@@ -1,0 +1,9 @@
+{
+  "build_number": "56",
+  "date": "2026-10-02T18:56:59Z",
+  "file": "Klaudimero-1.0-56.dmg",
+  "min_os_version": "26.0",
+  "notes": "Browser opens from More instead of a main tab. Today and Chat remain the main tabs. On iPhone, dismiss Browser with Done and return to the current screen. Browser session links continue to open the viewer.",
+  "size": 10198126,
+  "version": "1.0"
+}

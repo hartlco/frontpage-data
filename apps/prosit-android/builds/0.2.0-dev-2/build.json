@@ -1,0 +1,9 @@
+{
+  "build_number": "2",
+  "date": "2026-10-17T11:24:16Z",
+  "file": "app-debug.apk",
+  "min_os_version": "9.0",
+  "notes": "Native Kotlin and Jetpack Compose app with native passkeys, vault cryptography, encrypted updates, verified friends, circles and reviewed personal sharing. Replaces the earlier hybrid companion. Development preview signed with the local debug key (co.hartl.prosit.debug). Live passkey authentication requires production signing and server Digital Asset Links/app-origin configuration; no backend deployment is included. Verified with Rust/JavaScript interoperability tests and Android 16 phone, tablet and 200% text checks.",
+  "size": 43167227,
+  "version": "0.2.0-dev"
+}

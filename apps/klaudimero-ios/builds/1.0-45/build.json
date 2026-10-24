@@ -1,0 +1,9 @@
+{
+  "build_number": "45",
+  "date": "2026-09-30T05:26:35Z",
+  "file": "KlaudimeroApp.ipa",
+  "min_os_version": "26.0",
+  "notes": "GPT-6.1 Sol support in model pickers, with reasoning choices through Max when the live catalog is unavailable. The service now defaults Codex requests to GPT-6.1 Sol.",
+  "size": 18457055,
+  "version": "1.0"
+}

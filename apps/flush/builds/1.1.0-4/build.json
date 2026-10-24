@@ -1,0 +1,9 @@
+{
+  "build_number": "4",
+  "date": "2026-09-09T13:41:05Z",
+  "file": "Flush.ipa",
+  "min_os_version": "18.0",
+  "notes": "Track one spot at a time. Add a spot with its location, an optional photo, and a note, then update it as Still there, Less, Stronger, or Gone. Active spots have a direct Update button, and resolved spots keep their history and can be updated again. Food, skincare, and context are tucked into optional details. Existing entries and the data model are preserved. Camera, photo-library, food, and skincare actions keep the spot draft open.",
+  "size": 713722,
+  "version": "1.1.0"
+}

@@ -1,0 +1,9 @@
+{
+  "build_number": "47",
+  "date": "2026-09-30T14:48:00Z",
+  "file": "KlaudimeroApp.ipa",
+  "min_os_version": "26.0",
+  "notes": "Codex and Pi are the supported assistants. Retired Claude Code and OpenCode conversations remain readable, with a fresh conversation option. Saved unavailable selections require an explicit replacement. Updated engine-aware model controls and preserved history.",
+  "size": 18462525,
+  "version": "1.0"
+}

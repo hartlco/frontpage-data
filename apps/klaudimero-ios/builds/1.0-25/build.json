@@ -1,0 +1,9 @@
+{
+  "build_number": "25",
+  "date": "2026-09-15T08:00:22Z",
+  "file": "KlaudimeroApp.ipa",
+  "min_os_version": "26.0",
+  "notes": "Location and weather now appear with icons directly beneath Today. Tap for the daily forecast, high/low temperatures, precipitation probability, and source freshness. Supports host-collected GeoPulse location, offline readings, and accessible large-text layouts.",
+  "size": 17827083,
+  "version": "1.0"
+}

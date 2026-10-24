@@ -1,0 +1,9 @@
+{
+  "build_number": "9",
+  "date": "2026-10-21T08:28:26Z",
+  "file": "Klaudimero.ipa",
+  "min_os_version": "26.0",
+  "notes": "Improve chat updates during tools and handoffs, add chats grouped by bot and latest-message previews, and fix photo sending.",
+  "size": 6297876,
+  "version": "0.1.8"
+}

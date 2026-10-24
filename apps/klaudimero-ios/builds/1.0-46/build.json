@@ -1,0 +1,9 @@
+{
+  "build_number": "46",
+  "date": "2026-09-30T13:36:34Z",
+  "file": "KlaudimeroApp.ipa",
+  "min_os_version": "26.0",
+  "notes": "Pi engine support with live provider/model selection across Settings, chat, jobs, channels, heartbeat and dashboards. Reliable sessions, restricted goal workers and host tool integration. Saved custom models remain visible.",
+  "size": 18455271,
+  "version": "1.0"
+}

@@ -12,5 +12,86 @@
       <pubDate>Sun, 18 Oct 2026 09:44:36 +0000</pubDate>
       <enclosure url="https://builds.hartl.co/apps/klaudimero-macos/builds/1.0-69/download/Klaudimero-1.0-69.dmg" length="10904882" type="application/octet-stream"></enclosure>
     </item>
+    <item>
+      <title>Version 1.0</title>
+      <sparkle:version>66</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Open mail links from chat inside Klaudimero. Review or confirm and dismiss every For you update using swipe or menu actions. Cancel and pause goals directly, send requested changes in a simple form, and find grouped goal settings. Dismissing a goal update keeps its saved results and work intact; new results return for review.&lt;/p&gt;</description>
+      <pubDate>Wed, 07 Oct 2026 07:42:23 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/klaudimero-macos/builds/1.0-66/download/Klaudimero-1.0-66.dmg" length="10878300" type="application/octet-stream"></enclosure>
+    </item>
+    <item>
+      <title>Version 1.0</title>
+      <sparkle:version>58</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Manage connector permissions directly in Settings → Memory → Connector context → Source permissions. Choose conversation context and reviewed learning separately, with clear explanations, Save confirmation, safe conflict reload and retry. Turning context off also turns learning off. Existing permissions and source setup are preserved.&lt;/p&gt;</description>
+      <pubDate>Sat, 03 Oct 2026 04:32:56 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/klaudimero-macos/builds/1.0-58/download/Klaudimero-1.0-58.dmg" length="10523592" type="application/octet-stream"></enclosure>
+    </item>
+    <item>
+      <title>Version 1.0</title>
+      <sparkle:version>57</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Connector context links explicitly related tasks, reservations and fresh coarse location with revocable evidence and qualified explanations. Memory adds source permissions, supporting observations, correction, dismissal, forgetting and reviewed learning. New source permissions remain off by default. Implements #61 connector recall and review.&lt;/p&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 20:37:15 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/klaudimero-macos/builds/1.0-57/download/Klaudimero-1.0-57.dmg" length="10428401" type="application/octet-stream"></enclosure>
+    </item>
+    <item>
+      <title>Version 1.0</title>
+      <sparkle:version>56</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Browser opens from More instead of a main tab. Today and Chat remain the main tabs. On iPhone, dismiss Browser with Done and return to the current screen. Browser session links continue to open the viewer.&lt;/p&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 18:56:59 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/klaudimero-macos/builds/1.0-56/download/Klaudimero-1.0-56.dmg" length="10198126" type="application/octet-stream"></enclosure>
+    </item>
+    <item>
+      <title>Version 1.0</title>
+      <sparkle:version>55</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Browser-style tabs and address bar with automatic HTTPS for bare website addresses. Improved address replacement and active-tab visibility. Host Terminal supports explicitly configured HTTP connections with owner authorization.&lt;/p&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 18:42:17 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/klaudimero-macos/builds/1.0-55/download/Klaudimero-1.0-55.dmg" length="10194552" type="application/octet-stream"></enclosure>
+    </item>
+    <item>
+      <title>Version 1.0</title>
+      <sparkle:version>54</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Open the host Browser without a chat, use native navigation and type directly on iOS and macOS. Host terminal support is included and remains disabled pending physical iPhone validation. Includes the inherited goal assistant validation fix.&lt;/p&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 17:30:04 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/klaudimero-macos/builds/1.0-54/download/Klaudimero-1.0-54.dmg" length="10143508" type="application/octet-stream"></enclosure>
+    </item>
+    <item>
+      <title>Version 1.0</title>
+      <sparkle:version>53</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;New goals now start with executable host defaults without changing the model. Default selections stay inherited, with improved assistant loading and connection retry for goals and suggestions. Universal Apple Silicon and Intel app, Developer ID signed and notarized by Apple.&lt;/p&gt;</description>
+      <pubDate>Fri, 02 Oct 2026 16:12:51 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/klaudimero-macos/builds/1.0-53/download/Klaudimero-1.0-53.dmg" length="8249040" type="application/octet-stream"></enclosure>
+    </item>
+    <item>
+      <title>Version 1.0</title>
+      <sparkle:version>48</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;New simple chick icon inspired by Cadu, with a light background and translucent Liquid Glass layers. Universal Apple Silicon and Intel app, Developer ID signed and notarized by Apple.&lt;/p&gt;</description>
+      <pubDate>Thu, 01 Oct 2026 06:43:01 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/klaudimero-macos/builds/1.0-48/download/Klaudimero-1.0-48.dmg" length="8007102" type="application/octet-stream"></enclosure>
+    </item>
+    <item>
+      <title>Version 1.0</title>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Notarized macOS build&lt;/p&gt;</description>
+      <pubDate>Tue, 19 May 2026 17:52:44 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/klaudimero-macos/builds/1.0-2/download/KlaudimeroApp.dmg" length="9094637" type="application/octet-stream"></enclosure>
+    </item>
   </channel>
 </rss>

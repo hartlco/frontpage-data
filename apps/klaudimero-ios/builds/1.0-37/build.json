@@ -1,0 +1,9 @@
+{
+  "build_number": "37",
+  "date": "2026-09-21T06:35:58Z",
+  "file": "KlaudimeroApp.ipa",
+  "min_os_version": "26.0",
+  "notes": "Goal prompts now support photos, camera captures, and files with previews and removal. Paste images directly into goal descriptions and chat messages on iOS. Attachments stay with saved and scheduled goals and are available to assistant runs.",
+  "size": 18197881,
+  "version": "1.0"
+}

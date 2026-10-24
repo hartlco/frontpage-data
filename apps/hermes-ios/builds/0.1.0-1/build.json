@@ -1,0 +1,9 @@
+{
+  "build_number": "1",
+  "date": "2026-10-20T18:37:49Z",
+  "file": "Hermes.ipa",
+  "min_os_version": "26.0",
+  "notes": "First native Hermes client for iPhone and iPad. Klaudimero-inspired Today and chat views, configurable agent profiles, streaming Markdown replies, tool activity, approvals, and Keychain credentials. Connect to the Hermes API server; dashboard login endpoints are not supported.",
+  "size": 1969750,
+  "version": "0.1.0"
+}

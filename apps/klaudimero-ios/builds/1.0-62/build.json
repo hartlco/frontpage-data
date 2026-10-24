@@ -1,0 +1,8 @@
+{
+  "build_number": "62",
+  "date": "2026-10-04T05:09:09Z",
+  "file": "KlaudimeroApp.ipa",
+  "notes": "Mail chats can list and read selected messages without background analysis. Connector settings now live in Settings → Connectors, with enable/disable, chat context, memory learning and optional mail analysis controls. Source details stay one tap away.",
+  "size": 8841513,
+  "version": "1.0"
+}

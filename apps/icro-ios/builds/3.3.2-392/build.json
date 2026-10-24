@@ -1,0 +1,9 @@
+{
+  "build_number": "392",
+  "date": "2026-09-27T12:09:34Z",
+  "file": "Icro.ipa",
+  "min_os_version": "27.0",
+  "notes": "Moved post actions below content to prevent avatar mis-taps. Added shimmering loading placeholders across feeds, profiles, and Following.",
+  "size": 3123584,
+  "version": "3.3.2"
+}

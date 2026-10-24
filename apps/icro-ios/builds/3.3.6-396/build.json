@@ -1,0 +1,9 @@
+{
+  "build_number": "396",
+  "date": "2026-09-29T09:02:53Z",
+  "file": "Icro.ipa",
+  "min_os_version": "27.0",
+  "notes": "Centered post actions under avatars. Videos now open with active playback and use Micro.blog poster images, including HLS and nested source markup.",
+  "size": 3169230,
+  "version": "3.3.6"
+}
