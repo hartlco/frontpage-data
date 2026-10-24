@@ -4,6 +4,15 @@
     <title>Klaudimero for Mac</title>
     <link>https://builds.hartl.co/apps/hermes-macos/appcast.xml</link>
     <item>
+      <title>Version 0.2.9</title>
+      <sparkle:version>34</sparkle:version>
+      <sparkle:shortVersionString>0.2.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Fixes a launch crash caused by the Sparkle framework search path in the native Mac app. The actual signed app and packaged DMG now resolve the embedded updater correctly on Apple Silicon and Intel. Signed and notarized. If 0.2.8 cannot open, install this replacement manually once; future updates can use Sparkle.&lt;/p&gt;</description>
+      <pubDate>Sat, 24 Oct 2026 09:01:24 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/hermes-macos/builds/0.2.9-34/download/Klaudimero-0.2.9-34.dmg" length="7092657" type="application/octet-stream" sparkle:edDSASignature="R0VAWkE6LOoH1Qk5HtcO+xAm91Wnizw9rVt75MNIbMf6j6Rwn4daJQ9a8VHB68BEymfiZcWun6gQ4ud9+y0ADA=="></enclosure>
+    </item>
+    <item>
       <title>Version 0.2.8</title>
       <sparkle:version>33</sparkle:version>
       <sparkle:shortVersionString>0.2.8</sparkle:shortVersionString>

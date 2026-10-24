@@ -1,0 +1,10 @@
+{
+  "build_number": "34",
+  "date": "2026-10-24T09:01:24Z",
+  "file": "Klaudimero-0.2.9-34.dmg",
+  "min_os_version": "26.0",
+  "notes": "Fixes a launch crash caused by the Sparkle framework search path in the native Mac app. The actual signed app and packaged DMG now resolve the embedded updater correctly on Apple Silicon and Intel. Signed and notarized. If 0.2.8 cannot open, install this replacement manually once; future updates can use Sparkle.",
+  "size": 7092657,
+  "sparkle_signature": "R0VAWkE6LOoH1Qk5HtcO+xAm91Wnizw9rVt75MNIbMf6j6Rwn4daJQ9a8VHB68BEymfiZcWun6gQ4ud9+y0ADA==",
+  "version": "0.2.9"
+}
