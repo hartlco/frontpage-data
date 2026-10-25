@@ -1,0 +1,9 @@
+{
+  "build_number": "39",
+  "date": "2026-10-25T12:39:00Z",
+  "file": "Klaudimero.ipa",
+  "min_os_version": "26.0",
+  "notes": "Keep chat navigation stable when opening conversations across bots. Resolve each destination using its owning profile and show a recovery screen if it is unavailable. Show progress while creating a chat and return to a populated tab on failure. Preserve independent Bots back navigation. No server or plugin update is required.",
+  "size": 7081449,
+  "version": "0.2.14"
+}
