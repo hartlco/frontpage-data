@@ -1,0 +1,9 @@
+{
+  "build_number": "40",
+  "date": "2026-10-26T07:36:12Z",
+  "file": "Klaudimero.ipa",
+  "min_os_version": "26.0",
+  "notes": "Show the newest chat messages immediately and load earlier history progressively. Slow model-context statistics no longer block the composer or live reply refresh. Recover cancelled history loads, keep replies visible after refresh failures, and offer inline Retry. No server or plugin update is required.",
+  "size": 7096044,
+  "version": "0.2.15"
+}
