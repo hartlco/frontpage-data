@@ -1,0 +1,10 @@
+{
+  "build_number": "40",
+  "date": "2026-10-26T07:39:46Z",
+  "file": "Klaudimero-0.2.15-40.dmg",
+  "min_os_version": "26.0",
+  "notes": "Show recent chat replies immediately while earlier history loads. Optional context statistics no longer hold the composer or live refresh. Recover interrupted history reads and offer inline Retry without restarting the app. Native Mac loading and recovery verified; universal Developer ID release, notarized by Apple and signed for Sparkle updates. No server or plugin update is required.",
+  "size": 7284989,
+  "sparkle_signature": "e8U4Nmqc9gGpNC6I7T3SZU4Vu8mfeopYhpBy5jR4AAhoOL4C4tKjijuSaQM31DMfhcq11Tz3V0itSsv3lJe8BQ==",
+  "version": "0.2.15"
+}

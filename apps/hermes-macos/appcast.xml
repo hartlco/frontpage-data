@@ -4,6 +4,15 @@
     <title>Klaudimero for Mac</title>
     <link>https://builds.hartl.co/apps/hermes-macos/appcast.xml</link>
     <item>
+      <title>Version 0.2.15</title>
+      <sparkle:version>40</sparkle:version>
+      <sparkle:shortVersionString>0.2.15</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Show recent chat replies immediately while earlier history loads. Optional context statistics no longer hold the composer or live refresh. Recover interrupted history reads and offer inline Retry without restarting the app. Native Mac loading and recovery verified; universal Developer ID release, notarized by Apple and signed for Sparkle updates. No server or plugin update is required.&lt;/p&gt;</description>
+      <pubDate>Mon, 26 Oct 2026 07:39:46 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/hermes-macos/builds/0.2.15-40/download/Klaudimero-0.2.15-40.dmg" length="7284989" type="application/octet-stream" sparkle:edSignature="e8U4Nmqc9gGpNC6I7T3SZU4Vu8mfeopYhpBy5jR4AAhoOL4C4tKjijuSaQM31DMfhcq11Tz3V0itSsv3lJe8BQ=="></enclosure>
+    </item>
+    <item>
       <title>Version 0.2.13</title>
       <sparkle:version>38</sparkle:version>
       <sparkle:shortVersionString>0.2.13</sparkle:shortVersionString>
