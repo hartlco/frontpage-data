@@ -1,0 +1,9 @@
+{
+  "build_number": "41",
+  "date": "2026-10-29T05:54:10Z",
+  "file": "Klaudimero.ipa",
+  "min_os_version": "26.0",
+  "notes": "Keep sent drafts cleared during native text composition. Switch bots from the new-chat title while retaining text and attachments. Create server profiles and manage each bot’s plugin, MCP, and skill access from Bot settings.",
+  "size": 7186561,
+  "version": "0.2.16"
+}
