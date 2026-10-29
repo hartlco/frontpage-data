@@ -4,6 +4,15 @@
     <title>Klaudimero for Mac</title>
     <link>https://builds.hartl.co/apps/hermes-macos/appcast.xml</link>
     <item>
+      <title>Version 0.2.16</title>
+      <sparkle:version>41</sparkle:version>
+      <sparkle:shortVersionString>0.2.16</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Manage Hermes bots from Klaudimero: create profiles, configure each bot’s plugins, MCP servers and skills, and switch the bot for a new chat while preserving its draft. Improve native composer clearing and preserve newer drafts after uncertain or refused sends.&lt;/p&gt;</description>
+      <pubDate>Thu, 29 Oct 2026 05:49:34 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/hermes-macos/builds/0.2.16-41/download/Klaudimero-0.2.16-41.dmg" length="7483822" type="application/octet-stream" sparkle:edSignature="3n4RsVwPtlDAB/rNsOXNBI5+OznD2gmreEBkn0Fs/yk5a5r3n9ikWTO7MlKYlvGE3GSktY73rJMQuYiTsuhmAQ=="></enclosure>
+    </item>
+    <item>
       <title>Version 0.2.15</title>
       <sparkle:version>40</sparkle:version>
       <sparkle:shortVersionString>0.2.15</sparkle:shortVersionString>

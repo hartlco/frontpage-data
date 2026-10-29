@@ -1,0 +1,10 @@
+{
+  "build_number": "41",
+  "date": "2026-10-29T05:49:34Z",
+  "file": "Klaudimero-0.2.16-41.dmg",
+  "min_os_version": "26.0",
+  "notes": "Manage Hermes bots from Klaudimero: create profiles, configure each bot’s plugins, MCP servers and skills, and switch the bot for a new chat while preserving its draft. Improve native composer clearing and preserve newer drafts after uncertain or refused sends.",
+  "size": 7483822,
+  "sparkle_signature": "3n4RsVwPtlDAB/rNsOXNBI5+OznD2gmreEBkn0Fs/yk5a5r3n9ikWTO7MlKYlvGE3GSktY73rJMQuYiTsuhmAQ==",
+  "version": "0.2.16"
+}
