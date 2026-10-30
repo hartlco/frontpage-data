@@ -4,6 +4,15 @@
     <title>Klaudimero for Mac</title>
     <link>https://builds.hartl.co/apps/hermes-macos/appcast.xml</link>
     <item>
+      <title>Version 0.2.18</title>
+      <sparkle:version>43</sparkle:version>
+      <sparkle:shortVersionString>0.2.18</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Drag files and images into the composer with previews. Fix duplicate attachment-only messages and model switching including gpt-6.1-terra. Keep the latest reply visible when the composer changes height.&lt;/p&gt;</description>
+      <pubDate>Fri, 30 Oct 2026 08:01:52 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/hermes-macos/builds/0.2.18-43/download/Klaudimero-0.2.18-43.dmg" length="7533673" type="application/octet-stream" sparkle:edSignature="MhrZtHKAc7HOMOtKqGcgPXo3Nb/LXuMZx024apE3DB5F4jwdzl8mpCU5jeH4S/EASjCUS5f+BgcdAX+zahh/CQ=="></enclosure>
+    </item>
+    <item>
       <title>Version 0.2.17</title>
       <sparkle:version>42</sparkle:version>
       <sparkle:shortVersionString>0.2.17</sparkle:shortVersionString>

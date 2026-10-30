@@ -1,0 +1,10 @@
+{
+  "build_number": "43",
+  "date": "2026-10-30T08:01:52Z",
+  "file": "Klaudimero-0.2.18-43.dmg",
+  "min_os_version": "26.0",
+  "notes": "Drag files and images into the composer with previews. Fix duplicate attachment-only messages and model switching including gpt-6.1-terra. Keep the latest reply visible when the composer changes height.",
+  "size": 7533673,
+  "sparkle_signature": "MhrZtHKAc7HOMOtKqGcgPXo3Nb/LXuMZx024apE3DB5F4jwdzl8mpCU5jeH4S/EASjCUS5f+BgcdAX+zahh/CQ==",
+  "version": "0.2.18"
+}
