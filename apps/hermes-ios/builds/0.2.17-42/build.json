@@ -1,0 +1,9 @@
+{
+  "build_number": "42",
+  "date": "2026-10-30T07:06:25Z",
+  "file": "Klaudimero.ipa",
+  "min_os_version": "26.0",
+  "notes": "Fix blank chats after sending long pasted messages. Messages and replies have independent transcript rows, with explicit targets for the latest reply, tools and input requests. Keep full message contents and restore the correct position when reopening or returning to Latest messages.",
+  "size": 7195533,
+  "version": "0.2.17"
+}
