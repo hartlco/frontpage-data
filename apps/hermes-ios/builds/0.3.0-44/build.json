@@ -1,0 +1,9 @@
+{
+  "build_number": "44",
+  "date": "2026-10-30T09:10:33Z",
+  "file": "Klaudimero.ipa",
+  "min_os_version": "26.0",
+  "notes": "Web transcript preview from codex/web-transcript: bundled Streamdown Markdown, batched streaming updates, stable reading position and text selection, expandable agent handoffs and reasoning/tools. Native composer, approvals, secure inputs and attachment previews.",
+  "size": 7477079,
+  "version": "0.3.0"
+}
