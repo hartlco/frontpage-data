@@ -1,0 +1,9 @@
+{
+  "build_number": "43",
+  "date": "2026-10-30T08:00:10Z",
+  "file": "Klaudimero.ipa",
+  "min_os_version": "26.0",
+  "notes": "Drag files and images into the composer with previews. Reconcile attachment-only sends without duplicate chat bubbles. Fix model changes including gpt-6.1-terra by using Hermes provider identifiers without shell quoting.",
+  "size": 7208039,
+  "version": "0.2.18"
+}
