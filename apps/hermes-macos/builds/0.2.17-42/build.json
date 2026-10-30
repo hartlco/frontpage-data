@@ -1,0 +1,10 @@
+{
+  "build_number": "42",
+  "date": "2026-10-30T07:07:46Z",
+  "file": "Klaudimero-0.2.17-42.dmg",
+  "min_os_version": "26.0",
+  "notes": "Fix blank conversations after sending long pasted messages. Keep complete message text and replies visible, recover cached chat reopening, and return reliably to Latest messages after new replies arrive while reading history. Preserve reasoning/tool expansion and secure-input/approval visibility.",
+  "size": 7505753,
+  "sparkle_signature": "PK+uwwRcczXvtgwA98B+mSrR5wO68fJ4NkLB00JD6cPhRnjjWBcqXbU0G7QGjtg1ioNBiIaIHuxbRnz9oQeMAQ==",
+  "version": "0.2.17"
+}

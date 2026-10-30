@@ -4,6 +4,15 @@
     <title>Klaudimero for Mac</title>
     <link>https://builds.hartl.co/apps/hermes-macos/appcast.xml</link>
     <item>
+      <title>Version 0.2.17</title>
+      <sparkle:version>42</sparkle:version>
+      <sparkle:shortVersionString>0.2.17</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Fix blank conversations after sending long pasted messages. Keep complete message text and replies visible, recover cached chat reopening, and return reliably to Latest messages after new replies arrive while reading history. Preserve reasoning/tool expansion and secure-input/approval visibility.&lt;/p&gt;</description>
+      <pubDate>Fri, 30 Oct 2026 07:07:46 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/hermes-macos/builds/0.2.17-42/download/Klaudimero-0.2.17-42.dmg" length="7505753" type="application/octet-stream" sparkle:edSignature="PK+uwwRcczXvtgwA98B+mSrR5wO68fJ4NkLB00JD6cPhRnjjWBcqXbU0G7QGjtg1ioNBiIaIHuxbRnz9oQeMAQ=="></enclosure>
+    </item>
+    <item>
       <title>Version 0.2.16</title>
       <sparkle:version>41</sparkle:version>
       <sparkle:shortVersionString>0.2.16</sparkle:shortVersionString>
