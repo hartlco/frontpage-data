@@ -1,0 +1,10 @@
+{
+  "build_number": "44",
+  "date": "2026-10-30T09:11:04Z",
+  "file": "Klaudimero-0.3.0-44.dmg",
+  "min_os_version": "26.0",
+  "notes": "Web transcript preview from codex/web-transcript: bundled Streamdown Markdown, batched streaming updates, stable reading position and text selection, expandable agent handoffs and reasoning/tools. Native composer, approvals, secure inputs and attachment previews.",
+  "size": 7877057,
+  "sparkle_signature": "RWjR+nAIXMhCmamp6yZdxb77NAYUn8b8f+xO4lmRZx/dD7Ju+wvAQZMF4rJECGTCJVJfytv/3r8q3TLAN55+CA==",
+  "version": "0.3.0"
+}

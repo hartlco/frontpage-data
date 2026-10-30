@@ -4,6 +4,15 @@
     <title>Klaudimero for Mac</title>
     <link>https://builds.hartl.co/apps/hermes-macos/appcast.xml</link>
     <item>
+      <title>Version 0.3.0</title>
+      <sparkle:version>44</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Web transcript preview from codex/web-transcript: bundled Streamdown Markdown, batched streaming updates, stable reading position and text selection, expandable agent handoffs and reasoning/tools. Native composer, approvals, secure inputs and attachment previews.&lt;/p&gt;</description>
+      <pubDate>Fri, 30 Oct 2026 09:11:04 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/hermes-macos/builds/0.3.0-44/download/Klaudimero-0.3.0-44.dmg" length="7877057" type="application/octet-stream" sparkle:edSignature="RWjR+nAIXMhCmamp6yZdxb77NAYUn8b8f+xO4lmRZx/dD7Ju+wvAQZMF4rJECGTCJVJfytv/3r8q3TLAN55+CA=="></enclosure>
+    </item>
+    <item>
       <title>Version 0.2.18</title>
       <sparkle:version>43</sparkle:version>
       <sparkle:shortVersionString>0.2.18</sparkle:shortVersionString>
