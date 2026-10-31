@@ -1,0 +1,9 @@
+{
+  "build_number": "47",
+  "date": "2026-10-31T08:14:25Z",
+  "file": "Klaudimero.ipa",
+  "min_os_version": "26.0",
+  "notes": "Chats now merges conversations across all bots on the selected server, sorted by latest activity. Each row shows its bot, and search and Load more chats use the merged list. Chat opening, renaming, archiving and deletion retain the exact owning bot and session.",
+  "size": 7681265,
+  "version": "0.4.1"
+}
