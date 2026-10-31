@@ -4,6 +4,15 @@
     <title>Klaudimero for Mac</title>
     <link>https://builds.hartl.co/apps/hermes-macos/appcast.xml</link>
     <item>
+      <title>Version 0.5.0</title>
+      <sparkle:version>48</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;iOS and Mac now recognize responses running on another device. Send becomes text-only Steer while a response is active, with a separate Stop action. Normal sends verify live activity and queue safely if another device starts first. Drafts and attachments are preserved when a request is refused.&lt;/p&gt;</description>
+      <pubDate>Sat, 31 Oct 2026 08:51:32 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/hermes-macos/builds/0.5.0-48/download/Klaudimero-0.5.0-48.dmg" length="8421562" type="application/octet-stream" sparkle:edSignature="HqX0QBoQVl8+7uvZvAIhca2sWhdm5S/6X2wqL2Eb1XHzFKfhsTUHNNTYI050+rhU+KSd4RP/TSE+XPoenJDwDQ=="></enclosure>
+    </item>
+    <item>
       <title>Version 0.4.1</title>
       <sparkle:version>47</sparkle:version>
       <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
