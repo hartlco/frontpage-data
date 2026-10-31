@@ -1,0 +1,9 @@
+{
+  "build_number": "45",
+  "date": "2026-10-31T07:28:02Z",
+  "file": "Klaudimero.ipa",
+  "min_os_version": "26.0",
+  "notes": "Fix chat reopening after interrupted connections and notification links opening the wrong chat. Share session connections and runtime resumes, recover transport errors from refreshed history, and keep notification navigation reliable during startup and composing.",
+  "size": 7484615,
+  "version": "0.3.1"
+}
