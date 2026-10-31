@@ -1,0 +1,10 @@
+{
+  "build_number": "45",
+  "date": "2026-10-31T07:30:12Z",
+  "file": "Klaudimero-0.3.1-45.dmg",
+  "min_os_version": "26.0",
+  "notes": "Fix chat reopening after interrupted connections and notification links opening the wrong chat. Share session connections and runtime resumes, recover transport errors from refreshed history, and keep notification navigation reliable during startup and composing.",
+  "size": 7900752,
+  "sparkle_signature": "gVsj9+7YpCU7YR/GXRATB0Zf43LWuqQmljA5QyEcK7IJWX2vgduNyQ7R9TBB0zMjdEYuRcyIdEYUWQsSKb9lDw==",
+  "version": "0.3.1"
+}
