@@ -4,6 +4,15 @@
     <title>Klaudimero for Mac</title>
     <link>https://builds.hartl.co/apps/hermes-macos/appcast.xml</link>
     <item>
+      <title>Version 0.4.0</title>
+      <sparkle:version>46</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Native Hermes Kanban in Tasks: multiple boards, bot filters, task creation and editing, card moves, drag-and-drop on iPad and Mac, comments and run history. New tasks start in Triage; explicitly move assigned tasks to Ready to begin. Automatic foreground refresh and independent board selection per server.&lt;/p&gt;</description>
+      <pubDate>Sat, 31 Oct 2026 08:04:33 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/hermes-macos/builds/0.4.0-46/download/Klaudimero-0.4.0-46.dmg" length="8367466" type="application/octet-stream" sparkle:edSignature="1Fx/T76vE+alpiC3UrfFn/xyMQwCH3rj8rtStXvHhl6cmafUS7SrDTIWCK0Ba86PghhWpWP/pJBxh2BGNjBwAw=="></enclosure>
+    </item>
+    <item>
       <title>Version 0.3.1</title>
       <sparkle:version>45</sparkle:version>
       <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>

@@ -1,0 +1,10 @@
+{
+  "build_number": "46",
+  "date": "2026-10-31T08:04:33Z",
+  "file": "Klaudimero-0.4.0-46.dmg",
+  "min_os_version": "26.0",
+  "notes": "Native Hermes Kanban in Tasks: multiple boards, bot filters, task creation and editing, card moves, drag-and-drop on iPad and Mac, comments and run history. New tasks start in Triage; explicitly move assigned tasks to Ready to begin. Automatic foreground refresh and independent board selection per server.",
+  "size": 8367466,
+  "sparkle_signature": "1Fx/T76vE+alpiC3UrfFn/xyMQwCH3rj8rtStXvHhl6cmafUS7SrDTIWCK0Ba86PghhWpWP/pJBxh2BGNjBwAw==",
+  "version": "0.4.0"
+}
