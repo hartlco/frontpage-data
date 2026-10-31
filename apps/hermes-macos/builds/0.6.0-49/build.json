@@ -1,0 +1,10 @@
+{
+  "build_number": "49",
+  "date": "2026-10-31T14:24:14Z",
+  "file": "Klaudimero-0.6.0-49.dmg",
+  "min_os_version": "26.0",
+  "notes": "Type / in a chat to browse and run Hermes commands. Reload MCP tools with /reload-mcp, confirm a gateway restart with /restart, and use native /new, /reset and /model actions. Command results stay separate from model replies, with draft retention and no replay after uncertain acknowledgements.",
+  "size": 8609444,
+  "sparkle_signature": "Zgd8fnr/h4H28+4Ea6SSsFMZ/hBQsMIKuIt8qprYcqwlbHr0q3FrAmAZin/GdwDNs+Kkklcg7O77AsUTJcETDw==",
+  "version": "0.6.0"
+}
