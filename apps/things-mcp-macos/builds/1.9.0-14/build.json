@@ -1,0 +1,9 @@
+{
+  "build_number": "14",
+  "date": "2026-10-31T14:09:14Z",
+  "file": "MacMCP-1.9.0-14.dmg",
+  "min_os_version": "14.0",
+  "notes": "Adds read-only iMessage history and search in conversations selected locally. Full Disk Access is required; iMessage starts disabled with no conversations selected and existing tokens keep their permissions. Also includes Chrome tools, dedicated persistent agent profiles, local takeover, an optional Browser Harness engine, and opening the first browser tab. No messages are sent. Universal Apple Silicon/Intel, Developer ID signed and notarized.",
+  "size": 19321662,
+  "version": "1.9.0"
+}

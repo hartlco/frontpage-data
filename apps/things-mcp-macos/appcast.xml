@@ -4,6 +4,15 @@
     <title>MacMCP</title>
     <link>https://builds.hartl.co/apps/things-mcp-macos/appcast.xml</link>
     <item>
+      <title>Version 1.9.0</title>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Adds read-only iMessage history and search in conversations selected locally. Full Disk Access is required; iMessage starts disabled with no conversations selected and existing tokens keep their permissions. Also includes Chrome tools, dedicated persistent agent profiles, local takeover, an optional Browser Harness engine, and opening the first browser tab. No messages are sent. Universal Apple Silicon/Intel, Developer ID signed and notarized.&lt;/p&gt;</description>
+      <pubDate>Sat, 31 Oct 2026 14:09:14 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/things-mcp-macos/builds/1.9.0-14/download/MacMCP-1.9.0-14.dmg" length="19321662" type="application/octet-stream"></enclosure>
+    </item>
+    <item>
       <title>Version 1.4.0</title>
       <sparkle:version>5</sparkle:version>
       <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
