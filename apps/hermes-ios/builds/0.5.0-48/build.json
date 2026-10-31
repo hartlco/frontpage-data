@@ -1,0 +1,9 @@
+{
+  "build_number": "48",
+  "date": "2026-10-31T08:48:19Z",
+  "file": "Klaudimero.ipa",
+  "min_os_version": "26.0",
+  "notes": "iOS and Mac now recognize responses running on another device. Send becomes text-only Steer while a response is active, with a separate Stop action. Normal sends verify live activity and queue safely if another device starts first. Drafts and attachments are preserved when a request is refused.",
+  "size": 7712802,
+  "version": "0.5.0"
+}
