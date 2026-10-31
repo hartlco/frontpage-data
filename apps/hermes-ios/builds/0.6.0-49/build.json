@@ -1,0 +1,9 @@
+{
+  "build_number": "49",
+  "date": "2026-10-31T14:22:09Z",
+  "file": "Klaudimero.ipa",
+  "min_os_version": "26.0",
+  "notes": "Type / in a chat to browse and run Hermes commands. Reload MCP tools with /reload-mcp, confirm a gateway restart with /restart, and use native /new, /reset and /model actions. Command results stay separate from model replies, with draft retention and no replay after uncertain acknowledgements.",
+  "size": 7783055,
+  "version": "0.6.0"
+}
