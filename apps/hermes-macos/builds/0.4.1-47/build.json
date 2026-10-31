@@ -1,0 +1,10 @@
+{
+  "build_number": "47",
+  "date": "2026-10-31T08:16:23Z",
+  "file": "Klaudimero-0.4.1-47.dmg",
+  "min_os_version": "26.0",
+  "notes": "Chats now merges conversations across all bots on the selected server, sorted by latest activity. Each row shows its bot, and search and Load more chats use the merged list. Chat opening, renaming, archiving and deletion retain the exact owning bot and session.",
+  "size": 8373429,
+  "sparkle_signature": "+pch7LFF9N+pnhPOQsQ12CHpzb4MpY2aLP8Z7OWtXpCJXriX96VmNTtwWILtgvv/U9opbis8k+E4fRKIgTxEDA==",
+  "version": "0.4.1"
+}
