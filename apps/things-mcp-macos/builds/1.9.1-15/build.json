@@ -1,0 +1,9 @@
+{
+  "build_number": "15",
+  "date": "2026-11-01T13:30:20Z",
+  "file": "MacMCP-1.9.1-15.dmg",
+  "min_os_version": "14.0",
+  "notes": "Native integrations now run independently: a slow Calendar request no longer blocks Mail, Things, or other integrations. Requests to the same integration remain serialized across clients, and busy responses identify the affected integration. Existing tokens and selected sources keep their permissions. Includes all MacMCP 1.9 features. Universal Apple Silicon/Intel, Developer ID signed and notarized.",
+  "size": 19322144,
+  "version": "1.9.1"
+}

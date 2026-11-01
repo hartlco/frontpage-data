@@ -4,6 +4,15 @@
     <title>MacMCP</title>
     <link>https://builds.hartl.co/apps/things-mcp-macos/appcast.xml</link>
     <item>
+      <title>Version 1.9.1</title>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>1.9.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Native integrations now run independently: a slow Calendar request no longer blocks Mail, Things, or other integrations. Requests to the same integration remain serialized across clients, and busy responses identify the affected integration. Existing tokens and selected sources keep their permissions. Includes all MacMCP 1.9 features. Universal Apple Silicon/Intel, Developer ID signed and notarized.&lt;/p&gt;</description>
+      <pubDate>Sun, 01 Nov 2026 13:30:20 +0000</pubDate>
+      <enclosure url="https://builds.hartl.co/apps/things-mcp-macos/builds/1.9.1-15/download/MacMCP-1.9.1-15.dmg" length="19322144" type="application/octet-stream"></enclosure>
+    </item>
+    <item>
       <title>Version 1.9.0</title>
       <sparkle:version>14</sparkle:version>
       <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
