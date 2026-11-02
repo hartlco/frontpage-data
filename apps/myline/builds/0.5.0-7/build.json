@@ -1,0 +1,9 @@
+{
+  "build_number": "7",
+  "date": "2026-11-02T11:25:54Z",
+  "file": "Myline.ipa",
+  "min_os_version": "18.0",
+  "notes": "Delete notes from Note actions or the library context menu with confirmation. Nested notes move to Outline Trash, local drafts stay recoverable, and draft discard works offline.",
+  "size": 7666661,
+  "version": "0.5.0"
+}
