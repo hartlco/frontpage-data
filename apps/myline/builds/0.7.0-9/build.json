@@ -1,0 +1,9 @@
+{
+  "build_number": "9",
+  "date": "2026-11-02T20:32:53Z",
+  "file": "Myline.ipa",
+  "min_os_version": "18.0",
+  "notes": "Folder menus now open folder content and create notes in place. Collection descriptions are available offline. Notes have bottom Find and Edit controls with visible match navigation.",
+  "size": 7707768,
+  "version": "0.7.0"
+}
