@@ -1,0 +1,9 @@
+{
+  "build_number": "4",
+  "date": "2026-11-02T08:59:59Z",
+  "file": "Myline.ipa",
+  "min_os_version": "18.0",
+  "notes": "Live formatted editing with Tiptap. Editable tables, cached images, native formatting controls, and preserved Markdown blocks. Offline drafts and explicit saves retained.",
+  "size": 7616943,
+  "version": "0.3.0"
+}
