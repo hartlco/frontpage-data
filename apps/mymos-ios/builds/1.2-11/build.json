@@ -1,0 +1,9 @@
+{
+  "build_number": "11",
+  "date": "2026-11-02T13:57:05Z",
+  "file": "mymos.ipa",
+  "min_os_version": "27.0",
+  "notes": "Compose now sits beside Search in the native glass bottom toolbar. Timeline statistics use aligned columns with values above labels. Entry titles show the selected date and update when it changes.",
+  "size": 5430604,
+  "version": "1.2"
+}
