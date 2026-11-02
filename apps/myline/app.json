@@ -1,0 +1,8 @@
+{
+  "name": "Myline",
+  "slug": "myline",
+  "platform": "ios",
+  "bundle_id": "co.hartl.myline",
+  "description": "A quiet, offline home for your Outline notes. Read, write, attach, and save on your terms.",
+  "icon": "icon.png"
+}

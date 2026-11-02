@@ -1,0 +1,9 @@
+{
+  "build_number": "1",
+  "date": "2026-11-02T06:26:44Z",
+  "file": "Myline.ipa",
+  "min_os_version": "18.0",
+  "notes": "Initial Myline release: offline Outline library and media downloads, SwiftUI iPhone and iPad interface, Markdown editing with rich preview, images and file attachments, explicit saving, durable local drafts, protected revision checks and conflict-safe duplicates. Includes the layered iOS26/27 Icon Composer icon.",
+  "size": 7633003,
+  "version": "0.1.0"
+}
