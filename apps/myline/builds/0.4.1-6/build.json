@@ -1,0 +1,9 @@
+{
+  "build_number": "6",
+  "date": "2026-11-02T10:31:36Z",
+  "file": "Myline.ipa",
+  "min_os_version": "18.0",
+  "notes": "Fix repeated titles in the reader. Remove the title section label and simplify editing with a quieter Title placeholder and subtle focus underline.",
+  "size": 7639113,
+  "version": "0.4.1"
+}
