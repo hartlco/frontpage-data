@@ -1,0 +1,9 @@
+{
+  "build_number": "5",
+  "date": "2026-11-02T09:41:39Z",
+  "file": "Myline.ipa",
+  "min_os_version": "18.0",
+  "notes": "Clear title editing with a labelled focus highlight and shared scrolling. Collection and document tree with nested notes, search context, and Saved filtering.",
+  "size": 7638900,
+  "version": "0.4.0"
+}
