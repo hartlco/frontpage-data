@@ -1,0 +1,9 @@
+{
+  "build_number": "10",
+  "date": "2026-11-02T13:06:13Z",
+  "file": "mymos.ipa",
+  "min_os_version": "27.0",
+  "notes": "A cleaner journal with compact timeline statistics and a simple On this day link. Entry text now comes first when writing or editing, with date, location, and tags below. Removes decorative headlines and improves layouts at large text sizes.",
+  "size": 5429138,
+  "version": "1.2"
+}
