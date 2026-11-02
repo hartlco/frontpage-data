@@ -1,0 +1,9 @@
+{
+  "build_number": "3",
+  "date": "2026-11-02T08:03:13Z",
+  "file": "Myline.ipa",
+  "min_os_version": "18.0",
+  "notes": "Simplify editing to a single Save action that returns to the reader. Refresh server notes before editing while preserving local drafts. Add a floating Liquid Glass formatting toolbar with44-point controls and a table row/column picker. Keep CodeMirror source editing; live formatted editing is deferred.",
+  "size": 7611400,
+  "version": "0.2.0"
+}
