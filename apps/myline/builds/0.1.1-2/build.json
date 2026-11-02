@@ -1,0 +1,9 @@
+{
+  "build_number": "2",
+  "date": "2026-11-02T07:08:32Z",
+  "file": "Myline.ipa",
+  "min_os_version": "18.0",
+  "notes": "Fix Outline connection and note downloads by handling current and legacy API responses. Replace decorative headings and promotional copy with native lists, system typography, compact status labels, and simplified settings.",
+  "size": 7595394,
+  "version": "0.1.1"
+}

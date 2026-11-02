@@ -3,6 +3,6 @@
   "slug": "myline",
   "platform": "ios",
   "bundle_id": "co.hartl.myline",
-  "description": "A quiet, offline home for your Outline notes. Read, write, attach, and save on your terms.",
+  "description": "Offline Outline client for iPhone and iPad. Notes, attachments, drafts, and explicit saves.",
   "icon": "icon.png"
 }
