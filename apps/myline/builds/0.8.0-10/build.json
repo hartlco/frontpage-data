@@ -1,0 +1,9 @@
+{
+  "build_number": "10",
+  "date": "2026-11-02T21:08:08Z",
+  "file": "Myline.ipa",
+  "min_os_version": "18.0",
+  "notes": "Editable folder content with offline drafts and duplicate recovery for conflicts. Matching bottom search and action controls across the library and readers, including font, icon, tint and placement.",
+  "size": 7721102,
+  "version": "0.8.0"
+}
