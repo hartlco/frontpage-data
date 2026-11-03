@@ -1,0 +1,9 @@
+{
+  "build_number": "11",
+  "date": "2026-11-03T10:59:00Z",
+  "file": "Myline.ipa",
+  "min_os_version": "18.0",
+  "notes": "Sync progress now floats in a Liquid Glass bubble above search, keeping the list and controls in place. Offline and attachment status use the same bubble.",
+  "size": 7725253,
+  "version": "0.8.1"
+}
