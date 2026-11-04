@@ -1,0 +1,9 @@
+{
+  "build_number": "3",
+  "date": "2026-11-04T11:12:21Z",
+  "file": "LightCraft.ipa",
+  "min_os_version": "16.0",
+  "notes": "Experimental trackpad scrolling and secondary-click support, plus bottom safe-area layout. Please test on hardware; keep backups.",
+  "size": 56570720,
+  "version": "0.18.0"
+}
