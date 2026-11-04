@@ -1,0 +1,9 @@
+{
+  "build_number": "2",
+  "date": "2026-11-04T10:22:56Z",
+  "file": "LightCraft.ipa",
+  "min_os_version": "16.0",
+  "notes": "Updated provisioning profile for the registered iPad. Experimental build: back up originals and edits.",
+  "size": 56559064,
+  "version": "0.18.0"
+}
