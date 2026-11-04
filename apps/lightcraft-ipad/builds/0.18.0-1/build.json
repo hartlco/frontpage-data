@@ -1,0 +1,9 @@
+{
+  "build_number": "1",
+  "date": "2026-11-04T10:12:33Z",
+  "file": "LightCraft.ipa",
+  "min_os_version": "16.0",
+  "notes": "Experimental native iPad build. Back up originals and edits; see the iPad branch README for current limitations.",
+  "size": 56559033,
+  "version": "0.18.0"
+}
