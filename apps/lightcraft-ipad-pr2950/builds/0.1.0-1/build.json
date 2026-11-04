@@ -1,0 +1,9 @@
+{
+  "build_number": "1",
+  "date": "2026-11-04T10:58:24Z",
+  "file": "LightCraft-PR2950.ipa",
+  "min_os_version": "16.0",
+  "notes": "Experimental upstream PR 2950, commit 12167b6e. Installs separately with its own library; use copies of photos.",
+  "size": 53262817,
+  "version": "0.1.0"
+}
