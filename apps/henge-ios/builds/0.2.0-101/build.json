@@ -1,0 +1,9 @@
+{
+  "build_number": "101",
+  "date": "2026-11-07T14:04:10Z",
+  "file": "Henge-0.2.0-101.ipa",
+  "min_os_version": "17.0",
+  "notes": "Development build with freshly refreshed provisioning profiles for the app and JIT helper, including all currently registered devices. Built-in StikJIT included.",
+  "size": 8909221,
+  "version": "0.2.0"
+}
