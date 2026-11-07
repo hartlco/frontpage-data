@@ -1,0 +1,9 @@
+{
+  "build_number": "100",
+  "date": "2026-11-07T13:59:02Z",
+  "file": "Henge-0.2.0-100.ipa",
+  "min_os_version": "17.0",
+  "notes": "Built from Henge commit d5706ff. Development-signed for registered devices; includes the patched StikJIT helper. JIT requires device setup.",
+  "size": 8908830,
+  "version": "0.2.0"
+}
