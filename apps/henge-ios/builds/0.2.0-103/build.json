@@ -1,0 +1,9 @@
+{
+  "build_number": "103",
+  "date": "2026-11-09T05:55:24Z",
+  "file": "Henge-0.2.0-103.ipa",
+  "min_os_version": "17.0",
+  "notes": "Built from main at b537dbb. Includes updates to networking, graphics, memory handling, and the JIT helper.",
+  "size": 8977185,
+  "version": "0.2.0"
+}
