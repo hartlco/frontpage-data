@@ -1,0 +1,9 @@
+{
+  "build_number": "109",
+  "date": "2026-11-10T10:39:40Z",
+  "file": "Henge-0.2.0-109.ipa",
+  "min_os_version": "17.0",
+  "notes": "Adds Settings → Keyboard with separate Control-Tab, Control-Q, and Control-Space toggles. Fixes Command carrying over to the next key after Control-Q.",
+  "size": 9080499,
+  "version": "0.2.0"
+}
