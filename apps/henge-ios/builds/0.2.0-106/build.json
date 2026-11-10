@@ -1,0 +1,9 @@
+{
+  "build_number": "106",
+  "date": "2026-11-10T04:55:51Z",
+  "file": "Henge-0.2.0-106.ipa",
+  "min_os_version": "17.0",
+  "notes": "Built from main at 86076a1. Includes installer, graphics, trackpad, and JIT helper updates.",
+  "size": 9032594,
+  "version": "0.2.0"
+}
