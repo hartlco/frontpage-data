@@ -3,7 +3,7 @@
   "date": "2026-11-11T20:54:13Z",
   "file": "Henge-0.3.0-111.ipa",
   "min_os_version": "17.0",
-  "notes": "Experimental windowed Mac apps through Henge's AppKit compatibility layer. Includes the updated loader, helper process compatibility, and keyboard shortcut settings. Enable Settings → Mac Apps → Mac apps without macOS. Source 16d3ec5b.",
+  "notes": "Experimental windowed Mac apps through Henge's AppKit compatibility layer. Includes the updated loader, helper process compatibility, and keyboard shortcut settings. Enable Settings \u2192 Mac Apps \u2192 Mac apps without macOS. Source 16d3ec50a985.",
   "size": 9605432,
   "version": "0.3.0"
 }
