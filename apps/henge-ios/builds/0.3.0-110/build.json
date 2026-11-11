@@ -1,0 +1,9 @@
+{
+  "build_number": "110",
+  "date": "2026-11-11T06:24:47Z",
+  "file": "Henge-0.3.0-110.ipa",
+  "min_os_version": "17.0",
+  "notes": "PR 72 rebased onto upstream main 0fa98db. Includes the latest Henge 0.3.0 changes and separate Control-Tab, Control-Q, and Control-Space keyboard settings. Source 37818c03beef.",
+  "size": 9270995,
+  "version": "0.3.0"
+}
