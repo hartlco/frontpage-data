@@ -1,0 +1,9 @@
+{
+  "build_number": "1",
+  "date": "2026-11-11T09:23:27Z",
+  "file": "StikDebug-3.2.2-build1.ipa",
+  "min_os_version": "17.4",
+  "notes": "Built from StikDebug source commit 0393dca. Development-signed for registered devices.",
+  "size": 17038500,
+  "version": "3.2.2"
+}

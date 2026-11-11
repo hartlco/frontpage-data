@@ -1,0 +1,8 @@
+{
+  "name": "StikDebug",
+  "slug": "stikdebug-ios",
+  "platform": "ios",
+  "bundle_id": "co.hartl.stikdebug",
+  "description": "On-device debugger and JIT enabler for iOS 17.4 and later.",
+  "icon": "icon.png"
+}
