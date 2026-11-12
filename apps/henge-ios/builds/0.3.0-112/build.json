@@ -1,0 +1,9 @@
+{
+  "build_number": "112",
+  "date": "2026-11-12T09:21:50Z",
+  "file": "Henge-0.3.0-112.ipa",
+  "min_os_version": "17.0",
+  "notes": "PR 72 rebased onto upstream main 1812892e129c. Includes Mac-app memory mapping, rendering, and trackpad updates, plus the keyboard shortcut settings. Source d7306e9f80cf.",
+  "size": 9630251,
+  "version": "0.3.0"
+}
