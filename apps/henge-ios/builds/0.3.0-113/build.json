@@ -1,0 +1,9 @@
+{
+  "build_number": "113",
+  "date": "2026-11-14T19:03:56Z",
+  "file": "Henge-0.3.0-113.ipa",
+  "min_os_version": "17.0",
+  "notes": "PR 72 rebased onto upstream main e98920ce3b10. Includes Mac-app menus, the Mac keyboard row, pinch zoom, OpenGL compatibility fixes, and the keyboard shortcut settings. Source af3e510bbd63.",
+  "size": 9662665,
+  "version": "0.3.0"
+}
