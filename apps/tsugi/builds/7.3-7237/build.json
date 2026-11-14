@@ -1,0 +1,9 @@
+{
+  "build_number": "7237",
+  "date": "2026-11-14T19:10:12Z",
+  "file": "Tsugi.ipa",
+  "min_os_version": "18.0",
+  "notes": "Updated to NetNewsWire upstream 7908c801b from November 12, 2026. Preserves Tsugi's News, Social and Blog timelines and independent linkding read-later accounts, with the new upstream thumbnail pipeline and account setup screens. Ad-hoc iPhone and iPad build for registered devices. Requires iOS 18.0 or later.",
+  "size": 19485290,
+  "version": "7.3"
+}
