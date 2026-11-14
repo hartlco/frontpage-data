@@ -1,0 +1,9 @@
+{
+  "build_number": "7239",
+  "date": "2026-11-14T20:00:10Z",
+  "file": "Tsugi.ipa",
+  "min_os_version": "18.0",
+  "notes": "Social post content now uses the same text color as its title in light and dark mode, including read-state fading. Ad-hoc iPhone and iPad build for registered devices; requires iOS 18.0 or later.",
+  "size": 19485315,
+  "version": "7.3"
+}
