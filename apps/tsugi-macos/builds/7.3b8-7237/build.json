@@ -1,0 +1,9 @@
+{
+  "build_number": "7237",
+  "date": "2026-11-14T19:01:27Z",
+  "file": "Tsugi-7.3b8-7237.dmg",
+  "min_os_version": "15.0",
+  "notes": "Updated to NetNewsWire upstream 7908c801b from November 12, 2026, preserving Tsugi's News, Social and Blog timeline styles. Includes the local timeline scrolling geometry fix. Universal Apple silicon and Intel build; Developer ID signed, notarized and stapled.",
+  "size": 12387754,
+  "version": "7.3b8"
+}
