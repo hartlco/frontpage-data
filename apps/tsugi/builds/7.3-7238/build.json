@@ -1,0 +1,9 @@
+{
+  "build_number": "7238",
+  "date": "2026-11-14T19:41:32Z",
+  "file": "Tsugi.ipa",
+  "min_os_version": "18.0",
+  "notes": "Restores dim-read mode after upgrading and hides unread dots when it is enabled. Preserves the previous Dim Read preference, including an explicit choice to keep dots. Keeps loaded News thumbnails visible through read and starred status updates. Ad-hoc iPhone and iPad build for registered devices; requires iOS 18.0 or later.",
+  "size": 19485434,
+  "version": "7.3"
+}
