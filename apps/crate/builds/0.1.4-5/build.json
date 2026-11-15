@@ -1,0 +1,9 @@
+{
+  "build_number": "5",
+  "date": "2026-11-15T04:36:13Z",
+  "file": "crate-signed.ipa",
+  "min_os_version": "18.0",
+  "notes": "Built from oneamendez/crate-ios commit 3ec38b4. Development-signed; JIT setup required.",
+  "size": 13783054,
+  "version": "0.1.4"
+}
