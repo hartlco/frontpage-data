@@ -1,0 +1,9 @@
+{
+  "build_number": "129",
+  "date": "2026-11-15T11:53:35Z",
+  "file": "UTM.ipa",
+  "min_os_version": "15.0",
+  "notes": "JIT-capable development build from UTM main (ea4add18). JIT requires a compatible debugger or JIT enabler; installation is limited to provisioned devices.",
+  "size": 148614148,
+  "version": "5.0.8"
+}
