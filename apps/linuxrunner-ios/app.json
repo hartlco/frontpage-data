@@ -3,6 +3,6 @@
   "slug": "linuxrunner-ios",
   "platform": "ios",
   "bundle_id": "dev.linuxrunner.app",
-  "description": "Run ARM64 Linux userspace on iPhone and iPad. Source and licenses: https://github.com/mxhm11cr/LinuxRunner/releases/tag/v1.1.1",
+  "description": "Run ARM64 Linux userspace on iPhone and iPad. Source: https://github.com/mxhm11cr/LinuxRunner",
   "icon": "icon.png"
 }
