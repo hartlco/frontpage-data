@@ -1,0 +1,9 @@
+{
+  "build_number": "120",
+  "date": "2026-11-24T12:53:57Z",
+  "file": "Henge-0.3.0-120.ipa",
+  "min_os_version": "17.0",
+  "notes": "Test build for full macOS on iPad. Magic Mouse and Magic Keyboard scrolling uses hardware sample timing and sends both contacts together. Long swipes no longer replay distance accumulated at the trackpad edge. The guest cursor moves on a separate layer at native and scaled resolutions.",
+  "size": 9193886,
+  "version": "0.3.0"
+}
