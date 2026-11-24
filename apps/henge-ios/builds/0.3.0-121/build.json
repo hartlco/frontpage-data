@@ -1,0 +1,9 @@
+{
+  "build_number": "121",
+  "date": "2026-11-24T21:12:05Z",
+  "file": "Henge-0.3.0-121.ipa",
+  "min_os_version": "17.0",
+  "notes": "Full macOS on iPad. Large guest kernel memory invalidations scan fewer cache slots. Includes build 120’s Magic Mouse and Magic Keyboard scrolling fixes and separate guest cursor layer. Scrolling automatically records two-second samples of memory scan time, displayed frame gaps and shared-surface graphics use. After scrolling in Safari, open Henge Settings → Log → Share henge.log.",
+  "size": 9195909,
+  "version": "0.3.0"
+}
