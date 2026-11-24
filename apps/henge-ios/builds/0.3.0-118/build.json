@@ -1,0 +1,9 @@
+{
+  "build_number": "118",
+  "date": "2026-11-24T05:59:40Z",
+  "file": "Henge-0.3.0-118.ipa",
+  "min_os_version": "17.0",
+  "notes": "Faster interrupt delivery between virtual CPUs and faster creation of Metal buffers and display surfaces when guest memory pages are adjacent. Source c1527725e2f7.",
+  "size": 9181802,
+  "version": "0.3.0"
+}
