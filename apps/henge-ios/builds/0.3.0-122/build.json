@@ -1,0 +1,9 @@
+{
+  "build_number": "122",
+  "date": "2026-11-24T21:55:03Z",
+  "file": "Henge-0.3.0-122.ipa",
+  "min_os_version": "17.0",
+  "notes": "Full macOS on iPad. A continuous Magic Keyboard trackpad swipe stays one gesture across brief zero reports. Delayed input is paced and excess travel is discarded. When the guest falls behind, the virtual trackpad keeps the latest position and preserves contact changes. Automatic scroll diagnostics are off by default. Includes the previous cursor and guest memory improvements.",
+  "size": 9197679,
+  "version": "0.3.0"
+}
