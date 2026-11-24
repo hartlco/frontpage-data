@@ -1,0 +1,9 @@
+{
+  "build_number": "116",
+  "date": "2026-11-24T05:05:06Z",
+  "file": "Henge-0.3.0-116.ipa",
+  "min_os_version": "17.0",
+  "notes": "Removes the fullscreen mouse hint and uses the iPad panel’s exact pixel dimensions in Retina mode. Source 543c417501b4.",
+  "size": 9180642,
+  "version": "0.3.0"
+}
