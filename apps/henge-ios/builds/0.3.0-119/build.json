@@ -1,0 +1,9 @@
+{
+  "build_number": "119",
+  "date": "2026-11-24T12:15:30Z",
+  "file": "Henge-0.3.0-119.ipa",
+  "min_os_version": "17.0",
+  "notes": "The iPad mouse now sends movement, button and scroll reports with one VM wake each. Metal checks the guest page table directly when reusing a buffer, reducing CPU time for graphics submissions with many resources. Source d55c6c32f627.",
+  "size": 9183643,
+  "version": "0.3.0"
+}
