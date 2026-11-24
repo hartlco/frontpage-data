@@ -1,0 +1,9 @@
+{
+  "build_number": "123",
+  "date": "2026-11-24T22:07:52Z",
+  "file": "Henge-0.3.0-123.ipa",
+  "min_os_version": "17.0",
+  "notes": "Physical trackpads and mice now scroll in single wheel steps by default. Delayed input is discarded so a stalled guest cannot accumulate a burst of wheel reports. Compare with Two-finger gesture on the same page using Details → Pointer → Hardware scrolling. Routine VM statistics skip the full translated-code cache scan.",
+  "size": 9202955,
+  "version": "0.3.0"
+}
