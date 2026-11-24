@@ -1,0 +1,9 @@
+{
+  "build_number": "115",
+  "date": "2026-11-24T04:54:36Z",
+  "file": "Henge-0.3.0-115.ipa",
+  "min_os_version": "17.0",
+  "notes": "Skips standalone Mac app address reservations so the full macOS VM has room for guest RAM on iPad Pro M5. Source ec874c0e09e5.",
+  "size": 9184945,
+  "version": "0.3.0"
+}
