@@ -1,0 +1,9 @@
+{
+  "build_number": "114",
+  "date": "2026-11-24T04:49:24Z",
+  "file": "Henge-0.3.0-114.ipa",
+  "min_os_version": "17.0",
+  "notes": "Full macOS build for iPad Pro. Adds the M5 guest RAM fix, segmented JIT cache, GPU cache and display timing fixes, plus smoother Magic Keyboard and mouse input. The standalone Mac Apps runtime is excluded. Source d3cc220b6fb2.",
+  "size": 9187038,
+  "version": "0.3.0"
+}
