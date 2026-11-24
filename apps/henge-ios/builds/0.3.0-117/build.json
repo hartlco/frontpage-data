@@ -1,0 +1,9 @@
+{
+  "build_number": "117",
+  "date": "2026-11-24T05:24:24Z",
+  "file": "Henge-0.3.0-117.ipa",
+  "min_os_version": "17.0",
+  "notes": "The VM timer sleeps while all guest CPUs are idle. Each macOS session uses its selected display refresh rate, including when switching between 120, 30 and 60 Hz. Source ddba6a5386c4.",
+  "size": 9180991,
+  "version": "0.3.0"
+}
