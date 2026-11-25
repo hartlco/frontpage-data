@@ -1,0 +1,9 @@
+{
+  "build_number": "125",
+  "date": "2026-11-25T08:09:00Z",
+  "file": "Henge-0.3.0-125.ipa",
+  "min_os_version": "17.0",
+  "notes": "Includes build 124 and the trackpad scrolling fix. Private timer interrupts update only their own guest CPU, and short local memory invalidations clear saved translations once per range. The Henge log now records graphics surface setup times and Metal display timestamps when available.",
+  "size": 9205038,
+  "version": "0.3.0"
+}
