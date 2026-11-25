@@ -1,0 +1,9 @@
+{
+  "build_number": "124",
+  "date": "2026-11-25T00:27:30Z",
+  "file": "Henge-0.3.0-124.ipa",
+  "min_os_version": "17.0",
+  "notes": "Includes build 123's trackpad fix. Tests shorter VM pauses during code-cache eviction by skipping branch instructions that already point to the correct destination. The VM statistics log counts how many exits needed only their slot cleared. Compare Safari on the same page with the same settings as build 123.",
+  "size": 9203157,
+  "version": "0.3.0"
+}
