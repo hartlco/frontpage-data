@@ -1,0 +1,9 @@
+{
+  "build_number": "126",
+  "date": "2026-11-25T10:12:57Z",
+  "file": "Henge-0.3.0-126.ipa",
+  "min_os_version": "17.0",
+  "notes": "Based on build 124. The network worker wakes on the first outgoing packet in a burst. The JIT tracks which branches it patched so it can skip inspecting untouched instructions when recycling translated code. Includes the trackpad scrolling fix.",
+  "size": 9203353,
+  "version": "0.3.0"
+}
