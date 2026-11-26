@@ -1,0 +1,9 @@
+{
+  "build_number": "135",
+  "date": "2026-11-26T09:10:58Z",
+  "file": "Henge-0.3.0-135.ipa",
+  "min_os_version": "17.0",
+  "notes": "Full macOS test build for iPad Pro. Includes more efficient encrypted downloads, grouped disk reads and writes, faster translated memory operations, and cheaper Retina previews. M4 tests sustained 11.98 MiB/s with 17–19% less CPU per GiB than build 126. iPad battery testing is pending. Source f4cf27ce24e8.",
+  "size": 9206428,
+  "version": "0.3.0"
+}
