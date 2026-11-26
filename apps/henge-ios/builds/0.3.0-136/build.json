@@ -1,0 +1,9 @@
+{
+  "build_number": "136",
+  "date": "2026-11-26T19:46:28Z",
+  "file": "Henge-0.3.0-136.ipa",
+  "min_os_version": "17.0",
+  "notes": "Full macOS test build for iPad Pro. Reduces CPU work when mapping Retina graphics surfaces and skips an extra network wake-pipe read during transfers. A Sequoia VM saved and resumed between builds 135 and 136 in both directions. Battery life on the M5 iPad is still being measured. Source 606d15bab028.",
+  "size": 9206859,
+  "version": "0.3.0"
+}
