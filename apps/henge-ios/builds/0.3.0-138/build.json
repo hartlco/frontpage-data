@@ -1,0 +1,9 @@
+{
+  "build_number": "138",
+  "date": "2026-11-27T01:48:11Z",
+  "file": "Henge-0.3.0-138.ipa",
+  "min_os_version": "17.0",
+  "notes": "Reduces network CPU work during transfers when several connections are open, such as a Terminal download with browser tabs open. Includes build 137’s Instant Resume, scrolling, display and idle logging improvements. The native shutdown log now shows peak host sockets and how often Henge reused socket subscriptions.",
+  "size": 9211138,
+  "version": "0.3.0"
+}
