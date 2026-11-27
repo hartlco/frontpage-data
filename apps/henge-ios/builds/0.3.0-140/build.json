@@ -1,0 +1,9 @@
+{
+  "build_number": "140",
+  "date": "2026-11-27T02:42:12Z",
+  "file": "Henge-0.3.0-140.ipa",
+  "min_os_version": "17.0",
+  "notes": "Reduces the time full macOS spends paused when its translation cache fills. Henge can now remove old cache entries directly. Includes build 139’s smaller cache segments and the earlier scrolling, Retina display and Instant Resume fixes.",
+  "size": 9211148,
+  "version": "0.3.0"
+}
