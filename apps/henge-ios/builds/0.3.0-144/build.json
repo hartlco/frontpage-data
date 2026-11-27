@@ -1,0 +1,9 @@
+{
+  "build_number": "144",
+  "date": "2026-11-27T04:44:40Z",
+  "file": "Henge-0.3.0-144.ipa",
+  "min_os_version": "17.0",
+  "notes": "iPad test build. Virtual CPUs now track dispatched blocks, exceptions and interrupts independently. Pausing or stopping the Mac preserves its block total. Six-core CPU workloads improved on the M4 host. Scrolling and power comparisons were mixed, including fewer submitted frames in one test. Includes the previous trackpad fixes. M5 iPad battery runtime is unmeasured.",
+  "size": 9211339,
+  "version": "0.3.0"
+}
