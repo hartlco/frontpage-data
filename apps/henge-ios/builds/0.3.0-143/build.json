@@ -1,0 +1,9 @@
+{
+  "build_number": "143",
+  "date": "2026-11-27T04:13:19Z",
+  "file": "Henge-0.3.0-143.ipa",
+  "min_os_version": "17.0",
+  "notes": "Each virtual CPU now keeps its own recent execution history. This reduces competition between CPUs when macOS handles many system calls, and makes fault reports identify the CPU involved. Includes build 142’s smaller translation records. Battery life still needs testing on the iPad.",
+  "size": 9211196,
+  "version": "0.3.0"
+}
