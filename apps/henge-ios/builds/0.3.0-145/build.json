@@ -1,0 +1,9 @@
+{
+  "build_number": "145",
+  "date": "2026-11-27T05:09:31Z",
+  "file": "Henge-0.3.0-145.ipa",
+  "min_os_version": "17.0",
+  "notes": "Full macOS test build based on 143, including its trackpad and keyboard fixes. Audio playback now wakes a virtual CPU when a guest buffer finishes or the audio ring has room to refill. In the M4 scrolling test this removed about 88% of audio wake requests. Scrolling results varied: the audio change used 15% less modeled process power after resume in separate builds (median of four pairs), while a same-boot comparison used 2% more and submitted fewer frames. Build 143 is available for comparison. M5 iPad battery runtime is unmeasured.",
+  "size": 9211178,
+  "version": "0.3.0"
+}
