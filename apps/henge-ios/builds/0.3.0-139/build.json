@@ -1,0 +1,9 @@
+{
+  "build_number": "139",
+  "date": "2026-11-27T02:19:19Z",
+  "file": "Henge-0.3.0-139.ipa",
+  "min_os_version": "17.0",
+  "notes": "Full macOS now reclaims its 1.5 GiB translation cache in smaller portions. This shortens individual pauses when the cache fills during longer sessions on a high-memory iPad. Includes build 138’s scrolling, Retina display and Instant Resume fixes.",
+  "size": 9211073,
+  "version": "0.3.0"
+}
