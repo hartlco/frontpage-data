@@ -1,0 +1,9 @@
+{
+  "build_number": "137",
+  "date": "2026-11-27T01:23:30Z",
+  "file": "Henge-0.3.0-137.ipa",
+  "min_os_version": "17.0",
+  "notes": "Reduces idle logging work and reads CPU and helper details while the Details sheet is open. Restores saved VM memory directly into guest pages to reduce peak memory during resume. Includes the display, networking and scrolling fixes from earlier builds.",
+  "size": 9210510,
+  "version": "0.3.0"
+}
