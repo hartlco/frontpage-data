@@ -1,0 +1,9 @@
+{
+  "build_number": "148",
+  "date": "2026-11-27T07:33:28Z",
+  "file": "Henge-0.3.0-148.ipa",
+  "min_os_version": "17.0",
+  "notes": "Build 148 adds an optional way to save CPU while keeping sound enabled in macOS Sequoia. It includes the changes from build 147. The option disables automatic Bluetooth audio switching inside the virtual Mac.\n\nLeave Mac audio output on. Open the Mac’s settings, expand Sound → Keep sound on in Sequoia, then tap Copy audio tool to Shared. With Henge file sharing set up, run this in the virtual Mac’s Terminal and restart macOS:\n\nsudo /bin/sh ~/Henge/guest-audio-routing.sh apply\n\nTo undo, use restore in place of apply and restart macOS. You can set up file sharing in the running Mac’s Details → Sharing.\n\nOn an M4-hosted Sequoia guest with networking off, the stock setting used about 1.05 CPU cores after playback stopped. With the experimental setting, two cold boots averaged 0.04–0.06 cores in that same window. Both configurations delivered around 23 MB of audio during a minute of keyboard sound feedback. One two-finger scroll trial delivered input with no new frames. The repeat submitted 683 frames. Battery runtime and Zen scrolling still need testing on a physical M5 iPad.",
+  "size": 9225909,
+  "version": "0.3.0"
+}
