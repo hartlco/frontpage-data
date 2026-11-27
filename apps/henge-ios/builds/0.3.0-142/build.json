@@ -1,0 +1,9 @@
+{
+  "build_number": "142",
+  "date": "2026-11-27T03:50:49Z",
+  "file": "Henge-0.3.0-142.ipa",
+  "min_os_version": "17.0",
+  "notes": "Uses 20% less space for each translated block record in full macOS. An 8 GiB macOS guest on an M4 used about 41 MiB less memory for these records. Battery life still needs testing on the iPad. Includes build 141’s branch-tracking improvements and the earlier trackpad, Retina display, and Instant Resume fixes.",
+  "size": 9211051,
+  "version": "0.3.0"
+}
