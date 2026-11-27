@@ -1,0 +1,9 @@
+{
+  "build_number": "141",
+  "date": "2026-11-27T03:05:53Z",
+  "file": "Henge-0.3.0-141.ipa",
+  "min_os_version": "17.0",
+  "notes": "Uses less memory to track translated branches during full macOS sessions and removes old links in slot order when the cache fills. Includes build 140’s translation-cache cleanup and the earlier trackpad, Retina display and Instant Resume fixes.",
+  "size": 9211178,
+  "version": "0.3.0"
+}
