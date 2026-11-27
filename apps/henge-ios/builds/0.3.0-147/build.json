@@ -1,0 +1,9 @@
+{
+  "build_number": "147",
+  "date": "2026-11-27T06:37:19Z",
+  "file": "Henge-0.3.0-147.ipa",
+  "min_os_version": "17.0",
+  "notes": "Build 147 includes the changes from build 146 and adds a per-Mac audio switch for silent sessions.\n\nShut down macOS before updating. To try it, open the Mac’s settings in Henge, go to Sound, turn off Mac audio output, then start the Mac. Audio is on by default. A suspended Mac resumes with its original sound setting. Re-enable the switch and cold boot to get sound back.\n\nIn full macOS Sequoia on an M4 test host with networking disabled, Henge averaged 1.07 host CPU cores at the idle language chooser with sound enabled and 0.08 with sound disabled. Guest profiling traced the idle work to the macOS audio-routing service. The test also delivered the scripted trackpad and keyboard input in both modes. M5 iPad battery runtime and Zen scrolling still need an on-device comparison.",
+  "size": 9214515,
+  "version": "0.3.0"
+}
