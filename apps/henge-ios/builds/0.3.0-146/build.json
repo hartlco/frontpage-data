@@ -1,0 +1,9 @@
+{
+  "build_number": "146",
+  "date": "2026-11-27T05:31:08Z",
+  "file": "Henge-0.3.0-146.ipa",
+  "min_os_version": "17.0",
+  "notes": "Scrolling comparison build for the M5 iPad Pro. The M4 tests used more modeled power while scrolling.\n\nThis build includes the audio, trackpad and keyboard changes from build 145. It skips scanning 32 CPU-private interrupt sources whenever the virtual interrupt controller sees that all of them are quiet.\n\nDuring scrolling in a six-CPU Sequoia guest on M4, interrupt selection took 42% less time. In eight same-boot comparisons, median paired changes were -0.9% in process CPU time, +3.0% in modeled process power and +9.6% in submitted frames per second. In four comparisons from matching saved memory and disks, the changes were +18.3%, +7.0% and +14.7%, respectively. All matched runs delivered the keyboard input. These host measurements cover the macOS language chooser. M5 iPad battery runtime and Zen scrolling still need on-device comparison.",
+  "size": 9211226,
+  "version": "0.3.0"
+}
